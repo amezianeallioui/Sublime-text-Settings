@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Peacock.custom.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 4,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme",
+	"word_wrap": true
+}

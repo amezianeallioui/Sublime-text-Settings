@@ -1,0 +1,4740 @@
+{
+	"folder_history":
+	[
+		"/C/xampp/htdocs/csc2014",
+		"/C/xampp/htdocs/zee_media_scripts",
+		"/C/xampp/htdocs",
+		"/C/xampp/htdocs/artdupapier/lab/jquery2",
+		"/C/xampp/htdocs/artdupapier-dev/public/adrian/customize-template",
+		"/C/xampp/htdocs/artdupapier-dev",
+		"/C/xampp/htdocs/zee_media_scripts/interface",
+		"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin",
+		"/C/xampp/htdocs/artdupapier-dev/public",
+		"/C/xampp/htdocs/artdupapier/admin",
+		"/C/xampp/htdocs/artdupapier/lab/jQuery2",
+		"/C/xampp/htdocs/artdupapier/lab/jQuery",
+		"/C/xampp/htdocs/artdupapier",
+		"/C/xampp/htdocs/google-api-adwords-php",
+		"/C/xampp/htdocs/onsexprime",
+		"/C/Users/Adrian/Downloads/google-code-prettify",
+		"/C/xampp/htdocs/dev_adk2013",
+		"/C/xampp/htdocs/Journal de mickey",
+		"/C/xampp/htdocs/winnie",
+		"/C/xampp/htdocs/Winnie",
+		"/C/Mes Sites Web/CSC52",
+		"/C/Mes Sites Web/CSC55",
+		"/C/xampp/htdocs/cscold",
+		"/C/xampp/htdocs/neoscan",
+		"/C/xampp/htdocs/cordonbsite",
+		"/C/xampp/htdocs/csc2014/public",
+		"/C/xampp/htdocs/googleads-php-lib-master",
+		"/C/xampp/htdocs/zee-adwords",
+		"/C/xampp/htdocs/cordonb",
+		"/C/Users/Adrian/Desktop/public_html.bak",
+		"/C/Users/Adrian/Desktop/public_html",
+		"/C/xampp/phpMyAdmin",
+		"/C/Users/Adrian/Desktop/backup",
+		"/C/Mes Sites Web/csc",
+		"/C/Mes Sites Web/csc/csc2014.adrian.dev",
+		"/C/wamp/www/dev_adk2013",
+		"/C/wamp/www/csc2014",
+		"/C/wamp",
+		"/C/wamp/www/csc2014/public"
+	],
+	"last_version": 3065,
+	"last_window_id": 13,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 667.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"img",
+						"imgHeight"
+					],
+					[
+						"str_repl",
+						"str_replace"
+					],
+					[
+						"w",
+						"white"
+					],
+					[
+						"coor",
+						"color"
+					],
+					[
+						"sele",
+						"selectedInput"
+					],
+					[
+						"php",
+						"phpinfo"
+					],
+					[
+						"select",
+						"selectTemplate"
+					],
+					[
+						"this",
+						"thisInput"
+					],
+					[
+						"bloc",
+						"blocUploadTemplate"
+					],
+					[
+						"in",
+						"inputImg"
+					],
+					[
+						"ele",
+						"elements"
+					],
+					[
+						"input",
+						"inputImg"
+					],
+					[
+						"clo",
+						"closest	.closest()"
+					],
+					[
+						"e",
+						"each	.each()"
+					],
+					[
+						"each",
+						"each	.each()"
+					],
+					[
+						"eleme",
+						"elements"
+					],
+					[
+						"id",
+						"id"
+					],
+					[
+						"type",
+						"typespapier"
+					],
+					[
+						"prev",
+						"preventDefault"
+					],
+					[
+						"elemen",
+						"element"
+					],
+					[
+						"json",
+						"jQuery.parseJSON	jQuery.parseJSON"
+					],
+					[
+						"pos",
+						"post"
+					],
+					[
+						"encode",
+						"json_encode"
+					],
+					[
+						"contain",
+						"container"
+					],
+					[
+						"coni",
+						"container"
+					],
+					[
+						"remo",
+						"removeClass	.removeClass()"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"trans",
+						"translation"
+					],
+					[
+						"preg_",
+						"preg_match"
+					],
+					[
+						"em",
+						"empty"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"Redi",
+						"Redirect-to	Redirect-to"
+					],
+					[
+						"In",
+						"Input-get	Input-get"
+					],
+					[
+						"View",
+						"View-make	View-make"
+					],
+					[
+						"db",
+						"db_get	CI - Active Record DB Get"
+					],
+					[
+						"text",
+						"textarea"
+					],
+					[
+						"h",
+						"html	.html()"
+					],
+					[
+						"elem",
+						"elements"
+					],
+					[
+						"appen",
+						"appendTo	.appendTo()"
+					],
+					[
+						"is-",
+						"is-hidden"
+					],
+					[
+						"tyep",
+						"typestemplate"
+					],
+					[
+						"typ",
+						"typetemplate"
+					],
+					[
+						"ty",
+						"typestemplate"
+					],
+					[
+						"mou",
+						"mousedown	.mousedown()"
+					],
+					[
+						"is-cur",
+						"is-cursor-resize"
+					],
+					[
+						"selectedR",
+						"selectedRect"
+					],
+					[
+						"daa",
+						"draggable"
+					],
+					[
+						"resi",
+						"resizer"
+					],
+					[
+						"inpu",
+						"inputImg"
+					],
+					[
+						"focus",
+						"focus	.focus()"
+					],
+					[
+						"key",
+						"keydown	.keydown()"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"ada",
+						"addClass	.addClass()"
+					],
+					[
+						"top",
+						"topDecalage"
+					],
+					[
+						"selected",
+						"selectedRect"
+					],
+					[
+						"css",
+						"css	.css() - multiple"
+					],
+					[
+						"mous",
+						"mousemove	.mousemove()"
+					],
+					[
+						"cu",
+						"cur:ha	cursor:hand"
+					],
+					[
+						"attr",
+						"attr	.attr() - single"
+					],
+					[
+						"remove",
+						"removeClass	.removeClass()"
+					],
+					[
+						"ht",
+						"height	.height()"
+					],
+					[
+						"fil",
+						"files"
+					],
+					[
+						"base",
+						"base_url"
+					],
+					[
+						"cur",
+						"cur:p	cursor:pointer"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"load",
+						"load_view	CI - Load View"
+					],
+					[
+						"und",
+						"undefined"
+					],
+					[
+						"tra",
+						"transReset"
+					],
+					[
+						"de",
+						"decalage"
+					],
+					[
+						"tr",
+						"transform"
+					],
+					[
+						"get",
+						"getScale"
+					],
+					[
+						"lo",
+						"load	.load()"
+					],
+					[
+						"tran",
+						"translation"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"un",
+						"undefined"
+					],
+					[
+						"anime",
+						"animate	.animate()"
+					],
+					[
+						"con",
+						"constraint"
+					],
+					[
+						"sca",
+						"scaleX"
+					],
+					[
+						"transf",
+						"transformations"
+					],
+					[
+						"ipu",
+						"inputHeight"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"offse",
+						"offset	.offset()"
+					],
+					[
+						"offs",
+						"offset	.offset()"
+					],
+					[
+						"offset",
+						"offset	.offset()"
+					],
+					[
+						"off",
+						"offset	.offset()"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"att",
+						"attr	.attr() - single"
+					],
+					[
+						"fu",
+						"fun	Function"
+					],
+					[
+						"zoo",
+						"zoomMore"
+					],
+					[
+						"cs",
+						"css	.css() - multiple"
+					],
+					[
+						"pa",
+						"params"
+					],
+					[
+						"togg",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"has",
+						"hasClass	.hasClass()"
+					],
+					[
+						"fw",
+						"fw:br	font-weight:bolder"
+					],
+					[
+						"new",
+						"newEditable"
+					],
+					[
+						"params",
+						"params"
+					],
+					[
+						"edi",
+						"editables"
+					],
+					[
+						"eac",
+						"each	.each()"
+					],
+					[
+						"sle",
+						"selected"
+					],
+					[
+						"ng-re",
+						"ng-repeat	AngularJS"
+					],
+					[
+						"$sc",
+						"$scope	AngularJS"
+					],
+					[
+						"routes",
+						"routesWithoutLogin"
+					],
+					[
+						"state",
+						"states"
+					],
+					[
+						"pare",
+						"parent_entity"
+					],
+					[
+						"DB",
+						"DB-select	DB-select"
+					],
+					[
+						"Res",
+						"Response-json	Response-json"
+					],
+					[
+						"id_",
+						"id_client"
+					],
+					[
+						"acc",
+						"account"
+					],
+					[
+						"Respon",
+						"Response-make	Response-make"
+					],
+					[
+						"pra",
+						"params"
+					],
+					[
+						"from",
+						"from-date"
+					],
+					[
+						"ord",
+						"order"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"inde",
+						"index2"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"data",
+						"datas"
+					],
+					[
+						"Date",
+						"DateTimePicker"
+					],
+					[
+						"to",
+						"toDate"
+					],
+					[
+						"name",
+						"nameCurve"
+					],
+					[
+						"na",
+						"nameCurve"
+					],
+					[
+						"re",
+						"results"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"cha",
+						"chart"
+					],
+					[
+						"adsgroup",
+						"adsGroup"
+					],
+					[
+						"flo",
+						"parseFloat"
+					]
+				]
+			},
+			"build_system": "Packages/SASS Build/SASS.sublime-build",
+			"command_palette":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+					[
+						"cam",
+						"Convert Case: camelCase"
+					],
+					[
+						"camel",
+						"Convert Case: camelCase"
+					],
+					[
+						"pasca",
+						"Convert Case: PascalCase"
+					],
+					[
+						"beau",
+						"HTMLBeautify"
+					],
+					[
+						"bea",
+						"HTMLBeautify"
+					],
+					[
+						"pair",
+						"Emmet: Go to Matching Pair"
+					],
+					[
+						"go to ",
+						"Emmet: Go to Matching Pair"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"bs3-in",
+						"Snippet: bs3-input-text"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Beautify::Beautify File"
+					],
+					[
+						"refac",
+						"PHPSimpleRefactor: extract current lines to method"
+					],
+					[
+						"LIS",
+						"Package Control: List Packages"
+					],
+					[
+						"INS",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"liver",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"live",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"js",
+						"Javascript Beautify"
+					],
+					[
+						"mini",
+						"Minify Javascript to file"
+					],
+					[
+						"h",
+						"HTMLBeautify"
+					],
+					[
+						"beaut",
+						"HTMLBeautify"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"brwose",
+						"Preferences: Browse Packages"
+					],
+					[
+						"be",
+						"Snippet: bs3-input-email"
+					],
+					[
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pret",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"fetc",
+						"Fetch: File"
+					],
+					[
+						"input-text",
+						"Snippet: bs3-input-text-h"
+					],
+					[
+						"form",
+						"Snippet: bs3-form-inline"
+					],
+					[
+						"input-t",
+						"Snippet: bs3-input-text"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"bs3",
+						"Snippet: bs3-navbar"
+					],
+					[
+						"livereloa",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"livere",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"add ",
+						"Package Control: Add Repository"
+					],
+					[
+						"add re",
+						"Package Control: Add Repository"
+					],
+					[
+						"package use",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"packa",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"li",
+						"LiveReload: Self test"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"reve",
+						"File: Revert"
+					],
+					[
+						"twi",
+						"Snippet: Twig : If"
+					],
+					[
+						"livereload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"prefe",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"pre",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"browse ",
+						"Preferences: Browse Packages"
+					],
+					[
+						"silex",
+						"Snippet: Get a value from the session provided by Silex."
+					],
+					[
+						"siget",
+						"Snippet: Get a value from the session provided by Silex."
+					],
+					[
+						"silex ",
+						"Snippet: Register Session Service Provider for Silex"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"brwos",
+						"Preferences: Browse Packages"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/xampp/htdocs/zee_media_scripts/interface/public/js/app.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/customize/app.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adp-partenaires.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/config/routes.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/controllers/upload.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/artcore/core/Model.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/libraries/fontimage.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/libraries/clean.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/models/color_model.php",
+				"/C/xampp/htdocs/zee_media_scripts/resources/doc/adwords_api_php_4.7.0/docs/files/Common.Lib.ValidationException.html",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/site/client-liste.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/composer.json",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/.htaccess",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/kriswallsmith/assetic/src/Assetic/Asset/HttpAsset.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/public/bower_components/bootstrap/less/mixins/hide-text.less",
+				"/C/xampp/htdocs/zee_media_scripts/interface/public/header.php",
+				"/C/xampp/htdocs/zee_media_scripts/public/.htaccess",
+				"/C/xampp/htdocs/artdupapier-dev/public/.htaccess",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/views/structure/header.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/assets/css/sass/app.scss",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/controllers/administration.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/views/admin/add-template.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/models/template_model.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/assets/js/module.js",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/routes.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/config/config.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/artpapier-users.sql",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/models/user_model.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/assets/js/app.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/assets/js/upload.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery2/sass/style.scss",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery/module.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/customize/module.js",
+				"/C/xampp/htdocs/artdupapier/lab/jquery2/module.js",
+				"/C/xampp/htdocs/artdupapier-dev/.gitignore",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/.htaccess",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/views/phpinfo.php",
+				"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/views/admin/set-template.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/controllers/administration.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/controllers/upload.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/assets/js/jquery-1.11.1.min.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/models/template_model.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/views/admin/add-template.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/libraries/clean.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/.htaccess",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/assets/js/module.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/assets/css/sass/app.scss",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/libraries/arrays.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/assets/js/app.js",
+				"/C/xampp/htdocs/.htaccess",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/assets/css/app.css",
+				"/C/xampp/htdocs/zee_media_scripts/interface/public/js/app.min.js",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/config/local/app.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery/app.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/angular/app.js",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/config/app.php",
+				"/C/xampp/htdocs/zee_media_scripts/src/app.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/googleads/googleads-php-lib/examples/Dfp/v201408/OrderService/ApproveOrders.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adp-panier-modi-prod.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/artisan",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/filp/whoops/src/deprecated/Zend/module.config.example.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/views/admin/list-template.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/views/login.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/views/structure/header.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/models/user_model.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/config/routes.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/user_guide/general/models.html",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/artcore/core/Model.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/views/structure/footer.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/artcore/core/Input.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery2/module.js",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/translation/Symfony/Component/Translation/Catalogue/MergeOperation.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/maintenance.htm",
+				"/C/xampp/htdocs/artdupapier-dev/public/renew-order.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/railway.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/customize/index.html",
+				"/C/xampp/htdocs/bibliocode/js/image/resize/resize-in/resize-in.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/customize-template/.htaccess",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/views/admin/add-user.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/views/admin/list-users.php",
+				"/C/Users/Adrian/Links/www.lnk",
+				"/C/xampp/htdocs/artdupapier/lab/jquery2/index.html",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/assets/js/upload.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/customize-template/index.html",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/assets/js/he.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/highslide.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/customize-template/upload.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/artcore/libraries/Upload.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/customize-template/upload.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/artcore/libraries/Unit_test.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/user_guide/nav/prototype.lite.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/config/database.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/artcore/core/Controller.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/application/config/config.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/site/fckeditor/editor/filemanager/connectors/php/upload.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery2/upload.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery2/upload.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery/upload.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery/upload.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/artcore/language/english/upload_lang.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/ui.notify.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery2/app.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adp-actualites.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/site/retour-rech.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/paiement/Retour-CIC-test.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/login.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/site/arbo-list-old.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/views/dashboard/accounts.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/views/dashboard/account.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/controllers/CronController.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/public/nav.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/controllers/AccountsController.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/controllers/UsersController.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/filters.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/FileTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Shared/FileTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/googleads/googleads-php-lib/build_lib/WSDLInterpreter/file_header.tmpl",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/twig/twig/lib/Twig/FilterInterface.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/models/Account.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/composer/autoload_classmap.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/config/view.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/symfony/finder/Symfony/Component/Finder/Expression/ValueInterface.php",
+				"/C/Users/Adrian/Documents/codeIgniter/readme.rst",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/admin/assets/css/bootstrap.min.css",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/views/dashboard/users.php"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 106.0,
+				"where_history":
+				[
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public\\admin",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public\\adrian\\admin\\artcore",
+					"C:\\xampp\\htdocs",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public\\adrian\\customize-template",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public\\adrian\\admin",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\controllers",
+					"C:\\xampp\\htdocs\\artdupapier\\admin\\application\\config",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\controllers",
+					"C:\\xampp\\htdocs\\zee_media_scripts",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\src\\Google\\Api\\Ads\\AdWords\\v201406",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\src\\Google\\Api\\Ads\\AdWords",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\src",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\themes",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\themes\\audika-v3",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\views",
+					"C:\\xampp\\htdocs\\dev_adk2013\\src",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\src\\Google\\Api\\Ads\\AdWords",
+					"C:\\xampp\\htdocs\\onsexprime",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\views\\campaigns",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\dev_adk2013\\src",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\dev_adk2013\\src",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\themes\\audika-v3",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\themes\\audika-v3\\pages",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\js",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\maatwebsite\\excel\\src\\Maatwebsite\\Excel",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\views",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\zee_media_scripts",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\controllers",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\views",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\csc2014\\public\\conf",
+					"C:\\xampp\\htdocs\\csc2014\\public\\model",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\xampp\\htdocs\\zee_media_scripts",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app",
+					"C:\\xampp\\htdocs\\winnie",
+					"C:\\Mes Sites Web\\CSC52",
+					"C:\\Mes Sites Web\\CSC55",
+					"C:\\Mes Sites Web\\CSC52",
+					"C:\\Mes Sites Web\\CSC55",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\cscold",
+					"C:\\xampp\\htdocs\\neoscan",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\js\\libs\\fileupload",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\zee_media_scripts",
+					"C:\\xampp\\htdocs\\zee-adwords",
+					"C:\\xampp\\htdocs\\cordonb",
+					"C:\\Users\\Adrian\\Desktop\\public_html",
+					"C:\\Users\\Adrian\\Desktop\\public_html\\js",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\Users\\Adrian\\Desktop\\backup",
+					"C:\\wamp\\www\\csc2014\\public\\js",
+					"C:\\Mes Sites Web\\csc\\csc2014.adrian.dev",
+					"C:\\Users\\Adrian\\Desktop\\backup",
+					"C:\\Mes Sites Web\\csc\\csc2014.adrian.dev",
+					"C:\\wamp\\www\\dev_adk2013",
+					"C:\\Mes Sites Web\\csc\\csc2014.adrian.dev",
+					"C:\\wamp\\www\\dev_adk2013",
+					"C:\\wamp\\www\\dev_adk2013\\resources",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\dev_adk2013",
+					"C:\\wamp\\www\\dev_adk2013\\src",
+					"C:\\wamp\\www\\dev_adk2013\\src\\Adk\\News\\Admin",
+					"C:\\wamp\\www\\dev_adk2013\\src\\Adk\\Admin\\templates\\pages",
+					"C:\\wamp\\www\\dev_adk2013\\public\\js",
+					"C:\\wamp\\www\\dev_adk2013\\src",
+					"C:\\wamp\\www\\dev_adk2013",
+					"C:\\wamp\\www\\dev_adk2013\\src\\Adk",
+					"C:\\wamp\\www\\dev_adk2013\\src",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public\\content",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014\\public\\js",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\dev_adk2013\\src\\Adk",
+					"C:\\wamp",
+					"C:\\wamp\\www\\dev_adk2013\\public",
+					"C:\\wamp\\www\\csc2014\\public\\content",
+					"C:\\wamp\\www\\csc2014\\public\\content\\urgences\\en-cas-d-oubli-de-pilule",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public\\views",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"fileExtStrip",
+					"arrays",
+					"colors",
+					"set",
+					"colors",
+					"getFont",
+					"fileExtStrip",
+					"$white",
+					"white",
+					"almostblack",
+					"imagettftext",
+					"black",
+					"imagettftext",
+					"targetImage",
+					"imagettftext",
+					"testFont",
+					"createImageFromFont",
+					"FontImage",
+					"module_",
+					"getColors",
+					"o",
+					"getLastEntry",
+					"prefix",
+					"templates",
+					"prefix",
+					"bold",
+					"event",
+					"sele",
+					"setItalic",
+					"picture11",
+					"$theTemplate",
+					"isset",
+					"imgSize",
+					"width(",
+					"phpinfo",
+					"scripts",
+					"localhost",
+					"upload",
+					"Carte",
+					"upload_carte",
+					"file_ext_strip",
+					"toAscii",
+					"arra",
+					"Arrays",
+					"unselectInput",
+					"unsele",
+					"console",
+					"+']').",
+					"')+']');",
+					"var resizer",
+					"draggable",
+					"precision",
+					"containment",
+					"idModel",
+					"this",
+					"'.selected'",
+					"'selected'",
+					"selected",
+					"selec",
+					"addClass",
+					"removeClass",
+					"'is-hidden'",
+					"buttonAddPrice",
+					"resizer",
+					"blocUploadTemplate",
+					"resizer",
+					"params.el",
+					"initInput",
+					".resizer",
+					"rmv",
+					"selectTempl",
+					"selectInput",
+					"selectTemplate",
+					"template",
+					"selectInput",
+					"removeInput",
+					"selectIn",
+					"selectTemplate",
+					"startDrawInput",
+					"textarea",
+					"thisContainer",
+					"initInput",
+					"inputFile",
+					"],",
+					"base",
+					"typetemplate",
+					"templates",
+					"setTemplate",
+					"set",
+					"objectFromValue",
+					"objectFromId",
+					"Ã©",
+					"Ã¨",
+					"è",
+					"<!--<",
+					"objectFromId",
+					"m",
+					"templates",
+					"getAllTemplatesOfModel",
+					"getTemplatesByType",
+					"typestemplate",
+					"objectFromId",
+					"some_function",
+					"Someclass",
+					"getAllTemplatesOfModel",
+					"price",
+					"typespapier",
+					"getTypesPapier",
+					"getPrices",
+					"getTypesPapier",
+					"typepapier",
+					"getModel",
+					"getModels",
+					"typespapier",
+					"getTemplates",
+					"getLastEntry",
+					"beautifyAutoIncrement",
+					"tablename",
+					"getLastEntry",
+					"id",
+					"updateModel",
+					"remove",
+					"lastGroup",
+					"getLastEntry",
+					"deleteAllTemplateOfAModel",
+					"last",
+					"insertLinkTypeTemplate",
+					"deleteAllTemplateOfAModel"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"$this.params.classSelected",
+					"$this.params.isHidden",
+					"é",
+					"è",
+					"input",
+					"Input",
+					"initRect(",
+					"resizer",
+					"img",
+					"id_account",
+					"<?= $type_child ?>",
+					"<?= $type_current ?>",
+					"statesEntity",
+					"$parent",
+					"$stateEntities",
+					"$stateEntity",
+					"$entities",
+					"$entity",
+					"$script",
+					"updateGraph",
+					"$keyword",
+					"$adsgroup",
+					"/campaign/",
+					"include asset('nav.php')",
+					"include asset('footer.php')",
+					"include asset('header.php')",
+					";",
+					"http://choisirsacontraception.fr",
+					"",
+					"`root`@`localhost`",
+					"http://www.choisirsacontraception.fr/",
+					"		<ul class=\"list\">\n			<li>\n				<a class=\"link01\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/le-sterilet-diu.html\">\n					Le stérilet\n					<span class=\"popup\">Le stérilet</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link02\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/les-spermicides.html\">\n					Les spermicides\n					<span class=\"popup\">Les spermicides</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link03\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/l-implant.html\">\n					L'implant\n					<span class=\"popup\">L'implant</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link04\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/le-preservatif-feminin.html\">\n					Le préservatif féminin\n					<span class=\"popup\">Le préservatif féminin</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link05\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/la-pilule/index.html\">\n					La pilule\n					<span class=\"popup\">La pilule</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link06\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/le-patch.html\">\n					Le patch\n					<span class=\"popup\">Le patch</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link07\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/le-preservatif-masculin.html\">\n					Le préservatif masculin\n					<span class=\"popup\">Le préservatif masculin</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link08\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/l-anneau-vaginal.html\">\n					L'anneau vagina\n					<span class=\"popup\">L'anneau vaginal</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link09\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/la-cape-cervicale.html\">\n					La cape cervicale\n					<span class=\"popup\">La cape cervicale</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link10\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/le-diaphragme.html\">\n					Le diaphragme\n					<span class=\"popup\">Le diaphragme</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link11\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/les-projestatifs-injectables.html\">\n					Les progestatifs injectables\n					<span class=\"popup\">Les progestatifs injectables</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link12\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/les-methodes-naturelles/index.html\">\n					Les méthodes naturelles\n					<span class=\"popup\">Les méthodes naturelles</span>\n				</a>\n			</li>\n			<li class=\"right\">\n				<a class=\"link13\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/la-sterilisation-a-visee-contraceptive.html\">\n					La stérilisation à visée contraceptive\n					<span class=\"popup\">La stérilisation à visée contraceptive</span>\n				</a>\n			</li>\n			<li class=\"right\">\n				<a class=\"link14\" href=\"http://www.choisirsacontraception.fr/urgences/la-contraception-d-urgence/que-faire-en-cas-de-probleme.html\">\n					La contraception d'urgence\n					<span class=\"popup\">La contraception d'urgence</span>\n				</a>\n			</li>\n		</ul>",
+					"		<ul class=\"list\">\n			<li>\n				<a class=\"link01\" href=\"/moyens-de-contraception/le-sterilet-diu.html\">\n					Le stérilet\n					<span class=\"popup\">Le stérilet</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link02\" href=\"/moyens-de-contraception/les-spermicides.html\">\n					Les spermicides\n					<span class=\"popup\">Les spermicides</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link03\" href=\"/moyens-de-contraception/l-implant.html\">\n					L'implant\n					<span class=\"popup\">L'implant</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link04\" href=\"/moyens-de-contraception/le-preservatif-feminin.html\">\n					Le préservatif féminin\n					<span class=\"popup\">Le préservatif féminin</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link05\" href=\"/moyens-de-contraception/la-pilule/index.html\">\n					La pilule\n					<span class=\"popup\">La pilule</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link06\" href=\"/moyens-de-contraception/le-patch.html\">\n					Le patch\n					<span class=\"popup\">Le patch</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link07\" href=\"/moyens-de-contraception/le-preservatif-masculin.html\">\n					Le préservatif masculin\n					<span class=\"popup\">Le préservatif masculin</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link08\" href=\"/moyens-de-contraception/l-anneau-vaginal.html\">\n					L'anneau vagina\n					<span class=\"popup\">L'anneau vaginal</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link09\" href=\"/moyens-de-contraception/la-cape-cervicale.html\">\n					La cape cervicale\n					<span class=\"popup\">La cape cervicale</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link10\" href=\"/moyens-de-contraception/le-diaphragme.html\">\n					Le diaphragme\n					<span class=\"popup\">Le diaphragme</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link11\" href=\"/moyens-de-contraception/les-projestatifs-injectables.html\">\n					Les progestatifs injectables\n					<span class=\"popup\">Les progestatifs injectables</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link12\" href=\"moyens-de-contraception/les-methodes-naturelles/index.html\">\n					Les méthodes naturelles\n					<span class=\"popup\">Les méthodes naturelles</span>\n				</a>\n			</li>\n			<li class=\"right\">\n				<a class=\"link13\" href=\"/moyens-de-contraception/la-sterilisation-a-visee-contraceptive.html\">\n					La stérilisation à visée contraceptive\n					<span class=\"popup\">La stérilisation à visée contraceptive</span>\n				</a>\n			</li>\n			<li class=\"right\">\n				<a class=\"link14\" href=\"/la-contraception-d-urgence/que-faire-en-cas-de-probleme.html\">\n					La contraception d'urgence\n					<span class=\"popup\">La contraception d'urgence</span>\n				</a>\n			</li>\n		</ul>",
+					"/",
+					"/urgences/",
+					"",
+					"logo2.png",
+					"",
+					"logo02.png",
+					"<li><a href=\"/contacts-utiles/index.html\">Contacts utiles</a></li>",
+					"<a href=\"../la-contraception-d-urgence/que-faire-en-cas-de-probleme.html\">Urgences</a>",
+					"<a href=\"../la-contraception-d-urgence/que-faire-en-cas-de-probleme.html\">La contraception d'urgence</a>",
+					"",
+					"../urgences/la-contraception-d-urgence/que-faire-en-cas-de-probleme.html",
+					"href=\"urgences/la-contraception-d-urgence/que-faire-en-cas-de-probleme.html\"",
+					"",
+					"/vos-questions/contraception-mode-d-emploi/pilule-mode-d-emploi.htm",
+					"/vos-questions/cas-particuliers.htm",
+					"/moyens-de-contraception/la-pilule/les-pilules-microprogestatives.htm",
+					"$this->contacts",
+					" ",
+					"56, 5",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"app.js",
+						"artdupapier-dev\\public\\admin\\assets\\js\\app.js"
+					],
+					[
+						"clean",
+						"artdupapier-dev\\public\\admin\\application\\libraries\\clean.php"
+					],
+					[
+						"htacc",
+						"artdupapier-dev\\public\\admin\\.htaccess"
+					],
+					[
+						"htacce",
+						"artdupapier-dev\\public\\admin\\.htaccess"
+					],
+					[
+						"route",
+						"artdupapier-dev\\public\\admin\\application\\config\\routes.php"
+					],
+					[
+						"module",
+						"artdupapier-dev\\public\\admin\\assets\\js\\module.js"
+					],
+					[
+						"moduel",
+						"artdupapier-dev\\public\\admin\\assets\\js\\module.js"
+					],
+					[
+						"htaccess",
+						"artdupapier-dev\\public\\admin\\.htaccess"
+					],
+					[
+						"routes",
+						"artdupapier-dev\\public\\admin\\application\\config\\routes.php"
+					],
+					[
+						"module.js",
+						"artdupapier-dev\\public\\adrian\\admin\\assets\\js\\module.js"
+					],
+					[
+						"app.",
+						"artdupapier-dev\\public\\adrian\\admin\\assets\\js\\app.js"
+					],
+					[
+						"model",
+						"artdupapier-dev\\public\\adrian\\admin\\application\\models\\template_model.php"
+					],
+					[
+						"hea",
+						"artdupapier-dev\\public\\adrian\\admin\\application\\views\\structure\\header.php"
+					],
+					[
+						"rou",
+						"artdupapier-dev\\public\\adrian\\admin\\application\\config\\routes.php"
+					],
+					[
+						"upload",
+						"artdupapier-dev\\public\\adrian\\admin\\assets\\js\\upload.js"
+					],
+					[
+						"uploa",
+						"customize-template\\upload.js"
+					],
+					[
+						"upload.",
+						"public\\adrian\\admin\\assets\\js\\upload.js"
+					],
+					[
+						"login",
+						"public\\bo_site\\login.php"
+					],
+					[
+						"filte",
+						"app\\filters.php"
+					],
+					[
+						"accoun",
+						"app\\controllers\\AccountsController.php"
+					],
+					[
+						"filter",
+						"zee_media_scripts\\interface\\app\\filters.php"
+					],
+					[
+						"mod",
+						"jQuery\\module.js"
+					],
+					[
+						"token",
+						"zee_media_scripts\\token.txt"
+					],
+					[
+						"url",
+						"zee_media_scripts\\url.txt"
+					],
+					[
+						"function",
+						"interface\\public\\js\\functions.js"
+					],
+					[
+						"gra",
+						"interface\\public\\js\\graph.js"
+					],
+					[
+						"footer",
+						"interface\\public\\footer.php"
+					],
+					[
+						"campai",
+						"interface\\app\\controllers\\CampaignsController.php"
+					],
+					[
+						"graph",
+						"interface\\public\\js\\graph.js"
+					],
+					[
+						"app",
+						"interface\\public\\js\\app.js"
+					],
+					[
+						"classmap",
+						"interface\\vendor\\composer\\autoload_classmap.php"
+					],
+					[
+						"export.cs",
+						"interface\\vendor\\googleads\\googleads-php-lib\\examples\\AdWords\\v201406\\Reporting\\report.csv"
+					],
+					[
+						"class",
+						"interface\\vendor\\composer\\autoload_classmap.php"
+					],
+					[
+						"adsuser.ph",
+						"google-api-adwords-php\\src\\Google\\Api\\Ads\\Common\\Lib\\AdsUser.php"
+					],
+					[
+						"auth.ini",
+						"interface\\vendor\\googleads\\googleads-php-lib\\src\\Google\\Api\\Ads\\AdWords\\auth.ini"
+					],
+					[
+						"url.t",
+						"zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\examples\\AdWords\\Auth\\url.txt"
+					],
+					[
+						"getre",
+						"zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\examples\\Dfp\\Auth\\GetRefreshToken.php"
+					],
+					[
+						"getcamp",
+						"zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\examples\\AdWords\\v201406\\BasicOperations\\GetCampaigns.php"
+					],
+					[
+						"getca",
+						"zee_media_scripts\\resources\\doc\\adwords_api_php_4.7.0\\examples\\AdWords\\nscheck\\GetCampaigns.php"
+					],
+					[
+						"les-pro",
+						"csc2014\\public\\content\\moyens-de-contraception\\les-projestatifs-injectables.php"
+					],
+					[
+						"user",
+						"zee_media_scripts\\interface\\app\\controllers\\UsersController.php"
+					],
+					[
+						"expo",
+						"zee_media_scripts\\interface\\app\\controllers\\ExportsController.php"
+					],
+					[
+						"export",
+						"zee_media_scripts\\interface\\app\\controllers\\ExportsController.php"
+					],
+					[
+						"c3.min",
+						"zee_media_scripts\\interface\\public\\js\\c3.min.js"
+					],
+					[
+						"foo",
+						"zee_media_scripts\\interface\\public\\footer.php"
+					],
+					[
+						"defaulttwig",
+						"dev_adk2013\\public\\themes\\audika-prototype\\layouts\\default.twig"
+					],
+					[
+						"autolo",
+						"dev_adk2013\\vendor\\composer\\autoload_namespaces.php"
+					],
+					[
+						"autoload",
+						"zee_media_scripts\\vendor\\composer\\autoload_classmap.php"
+					],
+					[
+						"blalc",
+						"dev_adk2013\\src\\Adk\\Contact\\Admin\\BlacklistContactsParser.php"
+					],
+					[
+						"",
+						"zee_media_scripts\\interface\\public\\js\\app.js"
+					],
+					[
+						"texte",
+						"zee_media_scripts\\interface\\app\\librairies\\textes\\textes.php"
+					],
+					[
+						"nav.",
+						"zee_media_scripts\\interface\\public\\nav.php"
+					],
+					[
+						"cron",
+						"zee_media_scripts\\interface\\app\\controllers\\CronController.php"
+					],
+					[
+						"cronc",
+						"zee_media_scripts\\interface\\app\\controllers\\CronController.php"
+					],
+					[
+						"rout",
+						"zee_media_scripts\\interface\\app\\routes.php"
+					],
+					[
+						"repo",
+						"zee_media_scripts\\interface\\app\\views\\cron\\reporting.php"
+					],
+					[
+						"composer",
+						"zee_media_scripts\\interface\\composer.json"
+					],
+					[
+						"fil",
+						"zee_media_scripts\\interface\\app\\filters.php"
+					],
+					[
+						"filters",
+						"zee_media_scripts\\interface\\app\\filters.php"
+					],
+					[
+						"setrile",
+						"csc2014\\public\\content\\moyens-de-contraception\\le-sterilet-diu.html.php"
+					],
+					[
+						"setri",
+						"csc2014\\public\\content\\moyens-de-contraception\\le-sterilet-diu.php"
+					],
+					[
+						"nav",
+						"zee_media_scripts\\interface\\public\\nav.php"
+					],
+					[
+						"header",
+						"zee_media_scripts\\interface\\public\\header.php"
+					],
+					[
+						"bootstrap.js",
+						"zee_media_scripts\\interface\\public\\libs\\bootstrap\\js\\bootstrap.js"
+					],
+					[
+						"profess",
+						"csc2014\\public\\content\\en-parler-c-est-mieux\\avec-un-professionnel-de-sante.html.php"
+					],
+					[
+						"contact",
+						"csc2014\\public\\content\\contacts-utiles\\contacts-utiles.html.php"
+					],
+					[
+						"dea",
+						"csc2014\\public\\script\\deadlink.php"
+					],
+					[
+						"tableau",
+						"csc2014\\public\\content\\contraception_tableau_comparatif.html.php"
+					],
+					[
+						"combine",
+						"csc2014\\public\\content\\moyens-de-contraception\\la-pilule\\les-pilules-combinees.html.php"
+					],
+					[
+						"effic",
+						"csc2014\\public\\content\\trouver-la-bonne-contraception\\quelle-est-la-meilleure-contraception\\qu-est-ce-qu-une-methode-contraceptive-efficace.php"
+					],
+					[
+						"absen",
+						"csc2014\\public\\content\\vos-questions\\en-cas-de-probleme\\absence-de-regles.php"
+					],
+					[
+						"ivg",
+						"csc2014\\public\\content\\vos-questions\\en-cas-de-probleme\\ivg.php"
+					],
+					[
+						"contraception-ur",
+						"csc2014\\public\\content\\vos-questions\\en-cas-de-probleme\\contraception-d-urgence.html.php"
+					],
+					[
+						"contraception-urg",
+						"csc2014\\public\\content\\vos-questions\\en-cas-de-probleme\\contraception-d-urgence.php"
+					],
+					[
+						"name",
+						"zee_media_scripts\\interface\\vendor\\composer\\autoload_namespaces.php"
+					],
+					[
+						"classma",
+						"zee_media_scripts\\interface\\vendor\\composer\\autoload_classmap.php"
+					],
+					[
+						"getrefres",
+						"interface\\vendor\\googleads\\googleads-php-lib\\examples\\AdWords\\Auth\\GetRefreshToken.php"
+					],
+					[
+						"adwords",
+						"interface\\vendor\\googleads\\googleads-php-lib\\src\\Google\\Api\\Ads\\AdWords\\Lib\\AdWordsUser.php"
+					],
+					[
+						"init",
+						"interface\\vendor\\googleads\\googleads-php-lib\\examples\\AdWords\\Auth\\init.php"
+					],
+					[
+						"paths",
+						"interface\\bootstrap\\paths.php"
+					],
+					[
+						"head",
+						"cscold\\templates\\head.php"
+					],
+					[
+						"pil",
+						"public\\model\\pilules.ini"
+					],
+					[
+						"pilules",
+						"public\\model\\pilules.ini"
+					],
+					[
+						"main.js",
+						"cordonbsite\\js\\main.js"
+					],
+					[
+						"acl",
+						"recess\\apps\\acl\\AclApplication.class.php"
+					],
+					[
+						"sublime",
+						"C:\\Users\\Adrian\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings"
+					],
+					[
+						"accouh",
+						"public\\content\\trouver-la-bonne-contraception\\la-contraception-apres-un-accouchement.php"
+					],
+					[
+						"accou",
+						"public\\videos\\Accouchement.xml"
+					],
+					[
+						"double",
+						"public\\content\\trouver-la-bonne-contraception\\la-contraception-des-premieres-fois\\la-double-protection.php"
+					],
+					[
+						"eff",
+						"public\\content\\trouver-la-bonne-contraception\\quelle-est-la-meilleure-contraception\\qu-est-ce-qu-une-methode-contraceptive-efficace.php"
+					],
+					[
+						"accouche",
+						"csc2014\\public\\content\\trouver-la-bonne-contraception\\la-contraception-apres-un-accouchement.php"
+					],
+					[
+						"horizontal",
+						"dev_adk2013\\public\\themes\\audika-v3\\partials\\conversion\\shop-horizontal-carrousel.twig"
+					],
+					[
+						".js",
+						"dev_adk2013\\public\\js\\Zee\\Tree\\UI.js"
+					],
+					[
+						"symfony/component/httpfoundation/file",
+						"dev_adk2013\\vendor\\symfony\\http-foundation\\Symfony\\Component\\HttpFoundation\\File\\UploadedFile.php"
+					],
+					[
+						"symfony/component/httpfoundation/file/uploadedfile",
+						"dev_adk2013\\vendor\\symfony\\http-foundation\\Symfony\\Component\\HttpFoundation\\File\\UploadedFile.php"
+					],
+					[
+						"sidebar",
+						"csc2014\\public\\views\\sidebar.php"
+					],
+					[
+						"urgence",
+						"csc2014\\public\\content\\urgences\\la-contraception-d-urgence\\la-contraception-d-urgence-hormonale.html.php"
+					],
+					[
+						"mineur",
+						"csc2014\\public\\content\\vos-questions\\quand-on-est-mineure.html.php"
+					],
+					[
+						"implan",
+						"csc2014\\public\\content\\vos-questions\\contraception-mode-d-emploi\\implant-mode-d-emploi.html.php"
+					],
+					[
+						"mode",
+						"csc2014\\public\\content\\vos-questions\\contraception-mode-d-emploi\\pilule-mode-d-emploi.html.php"
+					],
+					[
+						"gross",
+						"csc2014\\public\\content\\vos-questions\\sexualite-et-grossesse-le-baba.html.php"
+					],
+					[
+						"parents",
+						"csc2014\\public\\content\\en-parler-c-est-mieux\\avec-ses-parents.html.php"
+					],
+					[
+						"amis",
+						"csc2014\\public\\content\\en-parler-c-est-mieux\\entre-amis.html.php"
+					],
+					[
+						"professionn",
+						"csc2014\\public\\content\\en-parler-c-est-mieux\\avec-un-professionnel-de-sante.html.php"
+					],
+					[
+						"lsite",
+						"csc2014\\public\\model\\liste_pilules.php"
+					],
+					[
+						"liste",
+						"csc2014\\public\\model\\liste_pilules.php"
+					],
+					[
+						"email",
+						"dev_adk2013\\public\\admin\\upload\\emails.txt"
+					],
+					[
+						"all",
+						"csc2014\\public\\css\\all.css"
+					],
+					[
+						"profe",
+						"csc2014\\public\\content\\en-parler-c-est-mieux\\avec-un-professionnel-de-sante.html.php"
+					],
+					[
+						"menu",
+						"csc2014\\public\\content\\urgences\\en-cas-d-oubli-de-pilule\\menu_pilules.php"
+					],
+					[
+						"pilule",
+						"csc2014\\public\\model\\pilules.ini"
+					],
+					[
+						"preserva",
+						"csc2014\\public\\content\\moyens-de-contraception\\le-preservatif-masculin.html.php"
+					],
+					[
+						"black",
+						"dev_adk2013\\src\\Adk\\Contact\\Admin\\BlacklistContactsParser.php"
+					],
+					[
+						"quel",
+						"csc2014\\public\\content\\trouver-la-bonne-contraception\\quelle-est-la-meilleure-contraception\\quelques-reperes.html.php"
+					],
+					[
+						"adria",
+						"wamp\\www\\dev_adk2013\\resources\\config\\audika\\adrian.php"
+					],
+					[
+						"adkcontactmod",
+						"dev_adk2013\\src\\Adk\\Contact\\Model.php"
+					],
+					[
+						"lib/twig/token.php",
+						"dev_adk2013\\vendor\\twig\\twig\\lib\\Twig\\Token.php"
+					],
+					[
+						"quizz",
+						"csc2014\\public\\content\\quizz.html.php"
+					],
+					[
+						"cas",
+						"csc2014\\public\\content\\vos-questions\\cas-particuliers.php"
+					],
+					[
+						"contacts-",
+						"csc2014\\public\\content\\contacts-utiles\\contacts-utiles.html.php"
+					],
+					[
+						"mineu",
+						"csc2014\\public\\content\\vos-questions\\quand-on-est-mineure.html.php"
+					],
+					[
+						"contraceptionur",
+						"csc2014\\public\\content\\vos-questions\\en-cas-de-probleme\\contraception-d-urgence.html.php"
+					],
+					[
+						"contraceptionurge",
+						"csc2014\\public\\content\\vos-questions\\en-cas-de-probleme\\contraception-d-urgence.php"
+					],
+					[
+						"impla",
+						"csc2014\\public\\content\\vos-questions\\contraception-mode-d-emploi\\implant-mode-d-emploi.html.php"
+					],
+					[
+						"diu-st",
+						"csc2014\\public\\content\\vos-questions\\contraception-mode-d-emploi\\diu-sterilet-mode-d-emploi.html.php"
+					],
+					[
+						"diu",
+						"csc2014\\public\\content\\vos-questions\\contraception-mode-d-emploi\\diu-sterilet-mode-d-emploi.php"
+					],
+					[
+						"sterilet",
+						"csc2014\\public\\content\\vos-questions\\contraception-mode-d-emploi\\diu-sterilet-mode-d-emploi.php"
+					],
+					[
+						"mode-emp",
+						"csc2014\\public\\content\\vos-questions\\contraception-mode-d-emploi\\pilule-mode-d-emploi.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 365.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1006.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"get",
+						"getQueryVariable"
+					],
+					[
+						"nb",
+						"nbProjects"
+					],
+					[
+						"data",
+						"datas"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"new",
+						"newId"
+					],
+					[
+						"strip",
+						"strip_tags"
+					],
+					[
+						"fet",
+						"fetchAll"
+					],
+					[
+						"sel",
+						"selectedTemplate"
+					],
+					[
+						"up",
+						"updateTemplateHtml"
+					],
+					[
+						"ty",
+						"typespapier"
+					],
+					[
+						"id",
+						"id_client"
+					],
+					[
+						"pro",
+						"projectModel"
+					],
+					[
+						"_",
+						"_GET"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"clien",
+						"clientId"
+					],
+					[
+						"exec",
+						"execute"
+					],
+					[
+						"fun",
+						"fun	function …"
+					],
+					[
+						"exe",
+						"execute"
+					],
+					[
+						"url",
+						"urltable"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"type",
+						"typetemplate"
+					],
+					[
+						"model",
+						"modelesModel"
+					],
+					[
+						"custom",
+						"custom_projects"
+					],
+					[
+						"rem",
+						"removeprop	.removeProp()"
+					],
+					[
+						"sele",
+						"selected"
+					],
+					[
+						"parse",
+						"parseInt"
+					],
+					[
+						"o",
+						"on	.on()"
+					],
+					[
+						"custo",
+						"custom_projects"
+					],
+					[
+						"types",
+						"typespapier"
+					],
+					[
+						"mod",
+						"modelesModel"
+					],
+					[
+						"tye",
+						"typepapier"
+					],
+					[
+						"moda",
+						"modal-db"
+					],
+					[
+						"v",
+						"v-v	visibility: visible;"
+					],
+					[
+						"pre",
+						"prefix"
+					],
+					[
+						"remo",
+						"removeScriptFromHTML"
+					],
+					[
+						"grou",
+						"groups_templates"
+					],
+					[
+						"na",
+						"nameFont"
+					],
+					[
+						"cu",
+						"cur:p	cursor:pointer"
+					],
+					[
+						"img",
+						"imgHeight"
+					],
+					[
+						"str_repl",
+						"str_replace"
+					],
+					[
+						"w",
+						"white"
+					],
+					[
+						"coor",
+						"color"
+					],
+					[
+						"php",
+						"phpinfo"
+					],
+					[
+						"select",
+						"selectTemplate"
+					],
+					[
+						"this",
+						"thisInput"
+					],
+					[
+						"bloc",
+						"blocUploadTemplate"
+					],
+					[
+						"in",
+						"inputImg"
+					],
+					[
+						"ele",
+						"elements"
+					],
+					[
+						"input",
+						"inputImg"
+					],
+					[
+						"clo",
+						"closest	.closest()"
+					],
+					[
+						"e",
+						"each	.each()"
+					],
+					[
+						"each",
+						"each	.each()"
+					],
+					[
+						"eleme",
+						"elements"
+					],
+					[
+						"prev",
+						"preventDefault"
+					],
+					[
+						"elemen",
+						"element"
+					],
+					[
+						"pos",
+						"post"
+					],
+					[
+						"encode",
+						"json_encode"
+					],
+					[
+						"contain",
+						"container"
+					],
+					[
+						"coni",
+						"container"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"trans",
+						"translation"
+					],
+					[
+						"preg_",
+						"preg_match"
+					],
+					[
+						"em",
+						"empty"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"Redi",
+						"Redirect-to	Redirect-to"
+					],
+					[
+						"In",
+						"Input-get	Input-get"
+					],
+					[
+						"View",
+						"View-make	View-make"
+					],
+					[
+						"db",
+						"db_get	CI - Active Record DB Get"
+					],
+					[
+						"text",
+						"textarea"
+					],
+					[
+						"h",
+						"html	.html()"
+					],
+					[
+						"elem",
+						"elements"
+					],
+					[
+						"appen",
+						"appendTo	.appendTo()"
+					],
+					[
+						"is-",
+						"is-hidden"
+					],
+					[
+						"tyep",
+						"typestemplate"
+					],
+					[
+						"typ",
+						"typetemplate"
+					],
+					[
+						"mou",
+						"mousedown	.mousedown()"
+					],
+					[
+						"is-cur",
+						"is-cursor-resize"
+					],
+					[
+						"selectedR",
+						"selectedRect"
+					],
+					[
+						"daa",
+						"draggable"
+					],
+					[
+						"resi",
+						"resizer"
+					],
+					[
+						"inpu",
+						"inputImg"
+					],
+					[
+						"focus",
+						"focus	.focus()"
+					],
+					[
+						"key",
+						"keydown	.keydown()"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"ada",
+						"addClass	.addClass()"
+					],
+					[
+						"top",
+						"topDecalage"
+					],
+					[
+						"selected",
+						"selectedRect"
+					],
+					[
+						"css",
+						"css	.css() - multiple"
+					],
+					[
+						"mous",
+						"mousemove	.mousemove()"
+					],
+					[
+						"attr",
+						"attr	.attr() - single"
+					],
+					[
+						"remove",
+						"removeClass	.removeClass()"
+					],
+					[
+						"ht",
+						"height	.height()"
+					],
+					[
+						"fil",
+						"files"
+					],
+					[
+						"base",
+						"base_url"
+					],
+					[
+						"cur",
+						"cur:p	cursor:pointer"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"load",
+						"load_view	CI - Load View"
+					],
+					[
+						"und",
+						"undefined"
+					],
+					[
+						"tra",
+						"transReset"
+					],
+					[
+						"de",
+						"decalage"
+					],
+					[
+						"tr",
+						"transform"
+					],
+					[
+						"lo",
+						"load	.load()"
+					],
+					[
+						"tran",
+						"translation"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"un",
+						"undefined"
+					],
+					[
+						"anime",
+						"animate	.animate()"
+					],
+					[
+						"con",
+						"constraint"
+					],
+					[
+						"sca",
+						"scaleX"
+					],
+					[
+						"transf",
+						"transformations"
+					],
+					[
+						"ipu",
+						"inputHeight"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"offse",
+						"offset	.offset()"
+					],
+					[
+						"offs",
+						"offset	.offset()"
+					],
+					[
+						"offset",
+						"offset	.offset()"
+					],
+					[
+						"off",
+						"offset	.offset()"
+					],
+					[
+						"att",
+						"attr	.attr() - single"
+					],
+					[
+						"fu",
+						"fun	Function"
+					],
+					[
+						"zoo",
+						"zoomMore"
+					],
+					[
+						"cs",
+						"css	.css() - multiple"
+					],
+					[
+						"pa",
+						"params"
+					],
+					[
+						"togg",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"has",
+						"hasClass	.hasClass()"
+					],
+					[
+						"fw",
+						"fw:br	font-weight:bolder"
+					],
+					[
+						"params",
+						"params"
+					],
+					[
+						"edi",
+						"editables"
+					],
+					[
+						"eac",
+						"each	.each()"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/xampp/htdocs/artdupapier-dev/public/adp-module-2.php",
+					"settings":
+					{
+						"buffer_size": 18163,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/artdupapier-dev/public/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 7788,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/artdupapier-dev/public/scripts/functions.js",
+					"settings":
+					{
+						"buffer_size": 699,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/artdupapier-dev/public/ajax/save-project.php",
+					"settings":
+					{
+						"buffer_size": 805,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/artdupapier-dev/public/ajax/create-project.php",
+					"settings":
+					{
+						"buffer_size": 844,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/artdupapier-dev/public/models/Project.php",
+					"settings":
+					{
+						"buffer_size": 2881,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/artdupapier-dev/public/bo_site/conf/fonc.php",
+					"settings":
+					{
+						"buffer_size": 58425,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/artdupapier-dev/public/models/Base.php",
+					"settings":
+					{
+						"buffer_size": 403,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/artdupapier-dev/public/scripts/module.js",
+					"settings":
+					{
+						"buffer_size": 15962,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/artdupapier-dev/public/scripts/calculoprice.js",
+					"settings":
+					{
+						"buffer_size": 1735,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/SASS Build/SASS.sublime-build",
+			"command_palette":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+					[
+						"beau",
+						"HTMLBeautify"
+					],
+					[
+						"bea	u",
+						"HTMLBeautify"
+					],
+					[
+						"an",
+						"ANF: New File"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"cam",
+						"Convert Case: camelCase"
+					],
+					[
+						"camel",
+						"Convert Case: camelCase"
+					],
+					[
+						"pasca",
+						"Convert Case: PascalCase"
+					],
+					[
+						"bea",
+						"HTMLBeautify"
+					],
+					[
+						"pair",
+						"Emmet: Go to Matching Pair"
+					],
+					[
+						"go to ",
+						"Emmet: Go to Matching Pair"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"bs3-in",
+						"Snippet: bs3-input-text"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Beautify::Beautify File"
+					],
+					[
+						"refac",
+						"PHPSimpleRefactor: extract current lines to method"
+					],
+					[
+						"LIS",
+						"Package Control: List Packages"
+					],
+					[
+						"INS",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"liver",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"live",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"js",
+						"Javascript Beautify"
+					],
+					[
+						"mini",
+						"Minify Javascript to file"
+					],
+					[
+						"h",
+						"HTMLBeautify"
+					],
+					[
+						"beaut",
+						"HTMLBeautify"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"brwose",
+						"Preferences: Browse Packages"
+					],
+					[
+						"be",
+						"Snippet: bs3-input-email"
+					],
+					[
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pret",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"fetc",
+						"Fetch: File"
+					],
+					[
+						"input-text",
+						"Snippet: bs3-input-text-h"
+					],
+					[
+						"form",
+						"Snippet: bs3-form-inline"
+					],
+					[
+						"input-t",
+						"Snippet: bs3-input-text"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"bs3",
+						"Snippet: bs3-navbar"
+					],
+					[
+						"livereloa",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"livere",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"add ",
+						"Package Control: Add Repository"
+					],
+					[
+						"add re",
+						"Package Control: Add Repository"
+					],
+					[
+						"package use",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"packa",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"li",
+						"LiveReload: Self test"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"reve",
+						"File: Revert"
+					],
+					[
+						"twi",
+						"Snippet: Twig : If"
+					],
+					[
+						"livereload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"prefe",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"pre",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"browse ",
+						"Preferences: Browse Packages"
+					],
+					[
+						"silex",
+						"Snippet: Get a value from the session provided by Silex."
+					],
+					[
+						"siget",
+						"Snippet: Get a value from the session provided by Silex."
+					],
+					[
+						"silex ",
+						"Snippet: Register Session Service Provider for Silex"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"brwos",
+						"Preferences: Browse Packages"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/xampp/htdocs/artdupapier-dev",
+				"/C/xampp/htdocs/artdupapier-dev/public",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab",
+				"/C/xampp/htdocs/artdupapier-dev/public/ajax",
+				"/C/xampp/htdocs/artdupapier-dev/public/models",
+				"/C/xampp/htdocs/artdupapier-dev/public/pages",
+				"/C/xampp/htdocs/artdupapier-dev/public/paiement"
+			],
+			"file_history":
+			[
+				"/C/xampp/htdocs/artdupapier-dev/public/css/fontello.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/conf/fonc.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/public/footer.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/site/fckeditor/editor/css/fck_internal.css",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Functions/IS_ODD.data",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/form/Symfony/Component/Form/FormInterface.php",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/xampp/htdocs/csc2014/public/content/moyens-de-contraception/les-methodes-naturelles/le-retrait.html.php",
+				"/C/xampp/htdocs/csc2014/public/content/moyens-de-contraception/les-methodes-naturelles/le-retrait.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/site/retour-rech.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/retour-ann.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/public/bower_components/bootstrap/less/responsive-embed.less",
+				"/C/xampp/htdocs/zee_media_scripts/interface/app/routes.php",
+				"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+				"/C/xampp/htdocs/hpva/sql/hpva-1510-2014-12-14.sql",
+				"/C/xampp/htdocs/artdupapier-dev/public/models/Project.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/models/User.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/identification.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/conf/conf.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/jquery-1.11.1.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/ajax/create-project.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/recu.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/models/Font.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/css-site.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/module.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/models/Color.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/models/Modele.php",
+				"/C/Users/Adrian/.ssh/id_rsa.pub",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/assets/js/app.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adp-partenaires.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/customize/app.js",
+				"/C/xampp/htdocs/zee_media_scripts/interface/public/js/app.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adp-entete.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adp-upline.php",
+				"/C/Users/Adrian/Desktop/artdupapier.sql",
+				"/C/xampp/htdocs/zee_media_scripts/.git.bak/config",
+				"/C/xampp/htdocs/zee_media_scripts/console",
+				"/C/xampp/htdocs/artdupapier-dev/public/pages/contenu-old.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/assets/js/module.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/css-menu.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/slide/coin-slider-styles.css",
+				"/C/xampp/htdocs/zee_media_scripts/interface/composer.json",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/accueil/style.css",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/KeyKeysTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/KeyTimeToLiveTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/twig-bridge/Symfony/Bridge/Twig/Extension/HttpKernelExtension.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/carrousel/skin-tango.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/adp-module-2.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/composer.json",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/libraries/MY_Composer.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/controllers/upload.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/views/admin/set-template.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/views/admin/list-template.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/app.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adp-module.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/customize/module.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/ajax/upload.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery2/index.html",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/calculoprice.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/modal.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery2/stylesheets/style.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/upload.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery2/app.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/adrian/lab/jQuery2/style.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/site.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/sitemap.xml",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/SmallIntType.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/swiftmailer/swiftmailer/lib/swift_init.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/angular.min.js",
+				"/C/Users/Adrian/Downloads/angular.min.js.map",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/controllers/administration.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/models/template_model.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/glide.min.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/models/Typepapier.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/models/Typetemplate.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/vex.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/css/vex.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/models/Base.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/.htaccess",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/accueil/pixel.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/pages/accueil-c.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/scripts/accueil/excanvas.compiled.js",
+				"/C/xampp/htdocs/artdupapier-dev/public/pages/accueil.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/artisan",
+				"/C/xampp/htdocs/artdupapier-dev/public/fonts/fontello.svg",
+				"/C/xampp/htdocs/artdupapier-dev/public/fonts/fontello.woff",
+				"/C/xampp/htdocs/artdupapier-dev/public/admin/application/libraries/fontimage.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/bo_siteA.css",
+				"/C/xampp/htdocs/artdupapier-dev/public/index.php",
+				"/C/xampp/htdocs/artdupapier-dev/public/bo_site/site/actu-liste.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/googleads/googleads-php-lib/examples/Dfp/v201408/CreativeSetService/GetAllCreativesSets.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/security/Symfony/Component/Security/Http/Session/SessionAuthenticationStrategy.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/hwi/oauth-bundle/HWI/Bundle/OAuthBundle/DependencyInjection/CompilerPass/SetResourceOwnerServiceNameCompilerPass.php",
+				"/C/xampp/htdocs/zee_media_scripts/src/Google/Api/Ads/Common/Lib/AdsSoapClient.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/doctrine/common/tests/Doctrine/Tests/Common/Persistence/Mapping/StaticReflectionServiceTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/SqliteProfilerStorageTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/googleads/googleads-php-lib/examples/AdWords/v201406/ShoppingCampaigns/SetProductSalesChannel.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/googleads/googleads-php-lib/examples/AdWords/v201402/ShoppingCampaigns/SetProductSalesChannel.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/security-csrf/Symfony/Component/Security/Csrf/Tests/TokenStorage/SessionTokenStorageTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/SqliteProfilerStorageTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/StaticReflectionService.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/SqliteProfilerStorage.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/ServerBackgroundSaveTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderSet.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/StringPreciseSetExpireTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/SetIntersectionStoreTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/security-csrf/Symfony/Component/Security/Csrf/TokenStorage/SessionTokenStorage.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/SqliteProfilerStorage.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/SessionStorageInterface.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/ServerDatabaseSizeTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/lib/Predis/Command/ServerBackgroundSave.php",
+				"/C/xampp/htdocs/zee_media_scripts/resources/doc/adwords_api_php_4.7.0/examples/AdWords/v201309/AdvancedOperations/CreateAndAttachSharedKeywordSet.php",
+				"/C/xampp/htdocs/zee_media_scripts/resources/doc/adwords_api_php_4.7.0/examples/AdWords/v201306/AdvancedOperations/CreateAndAttachSharedKeywordSet.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/SetDifferenceStoreTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/PubSubSubscribeByPatternTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/lib/Predis/Command/StringPreciseSetExpire.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/lib/Predis/Command/SetIntersectionStore.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/lib/Predis/Command/ServerDatabaseSize.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/SessionStorageInterface.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/lib/Predis/Command/SetDifferenceStore.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/lib/Predis/Command/PubSubSubscribeByPattern.php",
+				"/C/xampp/htdocs/zee_media_scripts/vendor/symfony/templating/Symfony/Component/Templating/Tests/Storage/StringStorageTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/ServerLastSaveTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Collection/Iterator/SortedSetKeyTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/StringGetSetTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/PubSubSubscribeTest.php",
+				"/C/xampp/htdocs/zee_media_scripts/interface/vendor/predis/predis/tests/Predis/Command/StringSetMultiplePreserveTest.php"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 106.0,
+				"where_history":
+				[
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public\\admin",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public\\admin",
+					"C:\\xampp\\htdocs\\artdupapier-dev",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public\\admin",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public\\adrian\\admin\\artcore",
+					"C:\\xampp\\htdocs",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public\\adrian\\customize-template",
+					"C:\\xampp\\htdocs\\artdupapier-dev\\public\\adrian\\admin",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\controllers",
+					"C:\\xampp\\htdocs\\artdupapier\\admin\\application\\config",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\controllers",
+					"C:\\xampp\\htdocs\\zee_media_scripts",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\src\\Google\\Api\\Ads\\AdWords\\v201406",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\src\\Google\\Api\\Ads\\AdWords",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\src",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\themes",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\themes\\audika-v3",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\views",
+					"C:\\xampp\\htdocs\\dev_adk2013\\src",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\src\\Google\\Api\\Ads\\AdWords",
+					"C:\\xampp\\htdocs\\onsexprime",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\views\\campaigns",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\dev_adk2013\\src",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\dev_adk2013\\src",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\themes\\audika-v3",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\themes\\audika-v3\\pages",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\js",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\vendor\\maatwebsite\\excel\\src\\Maatwebsite\\Excel",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\views",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\zee_media_scripts",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\controllers",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app\\views",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\csc2014\\public\\conf",
+					"C:\\xampp\\htdocs\\csc2014\\public\\model",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\xampp\\htdocs\\zee_media_scripts",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface",
+					"C:\\xampp\\htdocs\\zee_media_scripts\\interface\\app",
+					"C:\\xampp\\htdocs\\winnie",
+					"C:\\Mes Sites Web\\CSC52",
+					"C:\\Mes Sites Web\\CSC55",
+					"C:\\Mes Sites Web\\CSC52",
+					"C:\\Mes Sites Web\\CSC55",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\cscold",
+					"C:\\xampp\\htdocs\\neoscan",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\dev_adk2013\\public\\js\\libs\\fileupload",
+					"C:\\xampp\\htdocs\\dev_adk2013",
+					"C:\\xampp\\htdocs\\csc2014\\public",
+					"C:\\xampp\\htdocs\\zee_media_scripts",
+					"C:\\xampp\\htdocs\\zee-adwords",
+					"C:\\xampp\\htdocs\\cordonb",
+					"C:\\Users\\Adrian\\Desktop\\public_html",
+					"C:\\Users\\Adrian\\Desktop\\public_html\\js",
+					"C:\\xampp\\htdocs\\csc2014",
+					"C:\\Users\\Adrian\\Desktop\\backup",
+					"C:\\wamp\\www\\csc2014\\public\\js",
+					"C:\\Mes Sites Web\\csc\\csc2014.adrian.dev",
+					"C:\\Users\\Adrian\\Desktop\\backup",
+					"C:\\Mes Sites Web\\csc\\csc2014.adrian.dev",
+					"C:\\wamp\\www\\dev_adk2013",
+					"C:\\Mes Sites Web\\csc\\csc2014.adrian.dev",
+					"C:\\wamp\\www\\dev_adk2013",
+					"C:\\wamp\\www\\dev_adk2013\\resources",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\dev_adk2013",
+					"C:\\wamp\\www\\dev_adk2013\\src",
+					"C:\\wamp\\www\\dev_adk2013\\src\\Adk\\News\\Admin",
+					"C:\\wamp\\www\\dev_adk2013\\src\\Adk\\Admin\\templates\\pages",
+					"C:\\wamp\\www\\dev_adk2013\\public\\js",
+					"C:\\wamp\\www\\dev_adk2013\\src",
+					"C:\\wamp\\www\\dev_adk2013",
+					"C:\\wamp\\www\\dev_adk2013\\src\\Adk",
+					"C:\\wamp\\www\\dev_adk2013\\src",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public\\content",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014\\public\\js",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\dev_adk2013\\src\\Adk",
+					"C:\\wamp",
+					"C:\\wamp\\www\\dev_adk2013\\public",
+					"C:\\wamp\\www\\csc2014\\public\\content",
+					"C:\\wamp\\www\\csc2014\\public\\content\\urgences\\en-cas-d-oubli-de-pilule",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public\\views",
+					"C:\\wamp\\www\\csc2014",
+					"C:\\wamp\\www\\csc2014\\public"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"function",
+					"variable",
+					"createQueryFromObject",
+					"data",
+					"false",
+					"getURLParameter",
+					"form",
+					"delete",
+					"action",
+					"if",
+					"getProjectsFromUser",
+					"state",
+					"module",
+					"deleteProject",
+					"}\n",
+					"insertProject",
+					"updateNameProjectFromId",
+					"secure",
+					"ifProjectExist",
+					"row",
+					"rows",
+					"params",
+					"$id",
+					"on(",
+					"on",
+					"make",
+					"img",
+					"backgr",
+					"backgo",
+					"localhost/hpva",
+					"localhost",
+					"htlkl",
+					"upload",
+					"update",
+					"uplo",
+					"update",
+					"carte",
+					"selectedTemplate",
+					"updateTemplateHtml",
+					"template",
+					"echo",
+					"quantity",
+					"editing",
+					"carte",
+					"typetemplate",
+					"number",
+					"rename",
+					"saveProject",
+					"col1",
+					"?\"><",
+					"warningbox",
+					"message",
+					"rename",
+					"project",
+					"getProjectsFromUser",
+					"idClient",
+					"clientId",
+					"getUserFromCookie",
+					"Project",
+					"identifLien",
+					"vaucoret",
+					"adrian",
+					"SESSION",
+					"$BI",
+					"client",
+					"zz-client",
+					"selected",
+					"clickout",
+					"29E8CB",
+					"setcolor",
+					"colorsModel",
+					"fonts",
+					"Font",
+					"Typetemplate",
+					"fontsModel",
+					"font",
+					"con",
+					"cons",
+					"\n        ",
+					"chooseTemplate",
+					"classSelected",
+					"displa",
+					"select",
+					"sele",
+					"selected",
+					"true",
+					"available",
+					"avalaible",
+					"available",
+					"avalaible",
+					"typesTemplateByModele",
+					"typesTemplateByModele ",
+					"getTypesTemplateByModele",
+					"templates",
+					"m",
+					"span",
+					"n",
+					"chooseTe",
+					"div",
+					"cldivss",
+					"a",
+					"chooseTemplate",
+					"trim",
+					"element",
+					"938",
+					"470",
+					"409380",
+					"200",
+					"chooseTemplate",
+					"getAllTemplateOfGroupTemplate",
+					"parseInt",
+					"carte1",
+					"carte",
+					"mycarte",
+					"width",
+					"height",
+					"').",
+					"displayCarte",
+					"pathUploadFile",
+					"carte",
+					"});\n",
+					"option",
+					"this",
+					"updateSelect",
+					"id_project",
+					"updateNameProjectFromId",
+					"params",
+					"updateSinglePrice"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"preprod.synerghetic.net/0875-14",
+					"parseFloat",
+					"tr",
+					"td",
+					"getLastEntryId",
+					"$group",
+					"$this.params.classSelected",
+					"$this.params.isHidden",
+					"é",
+					"è",
+					"input",
+					"Input",
+					"initRect(",
+					"resizer",
+					"img",
+					"id_account",
+					"<?= $type_child ?>",
+					"<?= $type_current ?>",
+					"statesEntity",
+					"$parent",
+					"$stateEntities",
+					"$stateEntity",
+					"$entities",
+					"$entity",
+					"$script",
+					"updateGraph",
+					"$keyword",
+					"$adsgroup",
+					"/campaign/",
+					"include asset('nav.php')",
+					"include asset('footer.php')",
+					"include asset('header.php')",
+					";",
+					"http://choisirsacontraception.fr",
+					"",
+					"`root`@`localhost`",
+					"http://www.choisirsacontraception.fr/",
+					"		<ul class=\"list\">\n			<li>\n				<a class=\"link01\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/le-sterilet-diu.html\">\n					Le stérilet\n					<span class=\"popup\">Le stérilet</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link02\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/les-spermicides.html\">\n					Les spermicides\n					<span class=\"popup\">Les spermicides</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link03\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/l-implant.html\">\n					L'implant\n					<span class=\"popup\">L'implant</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link04\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/le-preservatif-feminin.html\">\n					Le préservatif féminin\n					<span class=\"popup\">Le préservatif féminin</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link05\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/la-pilule/index.html\">\n					La pilule\n					<span class=\"popup\">La pilule</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link06\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/le-patch.html\">\n					Le patch\n					<span class=\"popup\">Le patch</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link07\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/le-preservatif-masculin.html\">\n					Le préservatif masculin\n					<span class=\"popup\">Le préservatif masculin</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link08\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/l-anneau-vaginal.html\">\n					L'anneau vagina\n					<span class=\"popup\">L'anneau vaginal</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link09\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/la-cape-cervicale.html\">\n					La cape cervicale\n					<span class=\"popup\">La cape cervicale</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link10\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/le-diaphragme.html\">\n					Le diaphragme\n					<span class=\"popup\">Le diaphragme</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link11\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/les-projestatifs-injectables.html\">\n					Les progestatifs injectables\n					<span class=\"popup\">Les progestatifs injectables</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link12\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/les-methodes-naturelles/index.html\">\n					Les méthodes naturelles\n					<span class=\"popup\">Les méthodes naturelles</span>\n				</a>\n			</li>\n			<li class=\"right\">\n				<a class=\"link13\" href=\"http://www.choisirsacontraception.fr/moyens-de-contraception/la-sterilisation-a-visee-contraceptive.html\">\n					La stérilisation à visée contraceptive\n					<span class=\"popup\">La stérilisation à visée contraceptive</span>\n				</a>\n			</li>\n			<li class=\"right\">\n				<a class=\"link14\" href=\"http://www.choisirsacontraception.fr/urgences/la-contraception-d-urgence/que-faire-en-cas-de-probleme.html\">\n					La contraception d'urgence\n					<span class=\"popup\">La contraception d'urgence</span>\n				</a>\n			</li>\n		</ul>",
+					"		<ul class=\"list\">\n			<li>\n				<a class=\"link01\" href=\"/moyens-de-contraception/le-sterilet-diu.html\">\n					Le stérilet\n					<span class=\"popup\">Le stérilet</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link02\" href=\"/moyens-de-contraception/les-spermicides.html\">\n					Les spermicides\n					<span class=\"popup\">Les spermicides</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link03\" href=\"/moyens-de-contraception/l-implant.html\">\n					L'implant\n					<span class=\"popup\">L'implant</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link04\" href=\"/moyens-de-contraception/le-preservatif-feminin.html\">\n					Le préservatif féminin\n					<span class=\"popup\">Le préservatif féminin</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link05\" href=\"/moyens-de-contraception/la-pilule/index.html\">\n					La pilule\n					<span class=\"popup\">La pilule</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link06\" href=\"/moyens-de-contraception/le-patch.html\">\n					Le patch\n					<span class=\"popup\">Le patch</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link07\" href=\"/moyens-de-contraception/le-preservatif-masculin.html\">\n					Le préservatif masculin\n					<span class=\"popup\">Le préservatif masculin</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link08\" href=\"/moyens-de-contraception/l-anneau-vaginal.html\">\n					L'anneau vagina\n					<span class=\"popup\">L'anneau vaginal</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link09\" href=\"/moyens-de-contraception/la-cape-cervicale.html\">\n					La cape cervicale\n					<span class=\"popup\">La cape cervicale</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link10\" href=\"/moyens-de-contraception/le-diaphragme.html\">\n					Le diaphragme\n					<span class=\"popup\">Le diaphragme</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link11\" href=\"/moyens-de-contraception/les-projestatifs-injectables.html\">\n					Les progestatifs injectables\n					<span class=\"popup\">Les progestatifs injectables</span>\n				</a>\n			</li>\n			<li>\n				<a class=\"link12\" href=\"moyens-de-contraception/les-methodes-naturelles/index.html\">\n					Les méthodes naturelles\n					<span class=\"popup\">Les méthodes naturelles</span>\n				</a>\n			</li>\n			<li class=\"right\">\n				<a class=\"link13\" href=\"/moyens-de-contraception/la-sterilisation-a-visee-contraceptive.html\">\n					La stérilisation à visée contraceptive\n					<span class=\"popup\">La stérilisation à visée contraceptive</span>\n				</a>\n			</li>\n			<li class=\"right\">\n				<a class=\"link14\" href=\"/la-contraception-d-urgence/que-faire-en-cas-de-probleme.html\">\n					La contraception d'urgence\n					<span class=\"popup\">La contraception d'urgence</span>\n				</a>\n			</li>\n		</ul>",
+					"/",
+					"/urgences/",
+					"",
+					"logo2.png",
+					"",
+					"logo02.png",
+					"<li><a href=\"/contacts-utiles/index.html\">Contacts utiles</a></li>",
+					"<a href=\"../la-contraception-d-urgence/que-faire-en-cas-de-probleme.html\">Urgences</a>",
+					"<a href=\"../la-contraception-d-urgence/que-faire-en-cas-de-probleme.html\">La contraception d'urgence</a>",
+					"",
+					"../urgences/la-contraception-d-urgence/que-faire-en-cas-de-probleme.html",
+					"href=\"urgences/la-contraception-d-urgence/que-faire-en-cas-de-probleme.html\"",
+					"",
+					"/vos-questions/contraception-mode-d-emploi/pilule-mode-d-emploi.htm",
+					"/vos-questions/cas-particuliers.htm",
+					"/moyens-de-contraception/la-pilule/les-pilules-microprogestatives.htm",
+					"$this->contacts",
+					" ",
+					"56, 5",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "C:\\xampp\\htdocs\\artdupapier-dev"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/xampp/htdocs/artdupapier-dev/public/adp-module-2.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18163,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17936,
+										17936
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6691.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/xampp/htdocs/artdupapier-dev/public/scripts/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7788,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4079,
+										4079
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3024.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/xampp/htdocs/artdupapier-dev/public/scripts/functions.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 699,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										699,
+										699
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/xampp/htdocs/artdupapier-dev/public/ajax/save-project.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 805,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										771,
+										771
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/xampp/htdocs/artdupapier-dev/public/ajax/create-project.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 844,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										593,
+										593
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/xampp/htdocs/artdupapier-dev/public/models/Project.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2881,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1925,
+										1944
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1406.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/xampp/htdocs/artdupapier-dev/public/bo_site/conf/fonc.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 58425,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										56404,
+										56410
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 43505.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/xampp/htdocs/artdupapier-dev/public/models/Base.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 403,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										395,
+										395
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/xampp/htdocs/artdupapier-dev/public/scripts/module.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15962,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										521,
+										521
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/xampp/htdocs/artdupapier-dev/public/scripts/calculoprice.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1735,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										944,
+										944
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,750,103,24,1125",
+			"project": "",
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"fonc",
+						"artdupapier-dev\\public\\bo_site\\conf\\fonc.php"
+					],
+					[
+						"retrait",
+						"csc2014\\public\\content\\moyens-de-contraception\\les-methodes-naturelles\\le-retrait.html.php"
+					],
+					[
+						"appj",
+						"artdupapier-dev\\public\\scripts\\app.js"
+					],
+					[
+						"app.js",
+						"artdupapier-dev\\public\\scripts\\app.js"
+					],
+					[
+						"adp-entete.php",
+						"artdupapier-dev\\public\\adp-entete.php"
+					],
+					[
+						"conf",
+						"artdupapier-dev\\public\\bo_site\\conf\\conf.php"
+					],
+					[
+						"css-site",
+						"artdupapier-dev\\public\\scripts\\css-site.css"
+					],
+					[
+						"module",
+						"artdupapier-dev\\public\\scripts\\module.js"
+					],
+					[
+						"site.css",
+						"artdupapier-dev\\public\\scripts\\css-site.css"
+					],
+					[
+						"modal",
+						"artdupapier-dev\\public\\scripts\\modal.js"
+					],
+					[
+						"accueil.css",
+						"artdupapier-dev\\public\\scripts\\accueil\\style.css"
+					],
+					[
+						"modu",
+						"artdupapier-dev\\public\\admin\\assets\\js\\module.js"
+					],
+					[
+						"style",
+						"artdupapier-dev\\public\\scripts\\accueil\\style.css"
+					],
+					[
+						"font",
+						"artdupapier-dev\\public\\css\\fontello.css"
+					],
+					[
+						"app.php",
+						"zee_media_scripts\\interface\\app\\config\\app.php"
+					],
+					[
+						"routes",
+						"artdupapier-dev\\public\\admin\\application\\config\\routes.php"
+					],
+					[
+						"app",
+						"artdupapier-dev\\public\\admin\\assets\\js\\app.js"
+					],
+					[
+						"htacces",
+						"artdupapier-dev\\public\\admin\\.htaccess"
+					],
+					[
+						"upload.php",
+						"artdupapier-dev\\public\\admin\\application\\controllers\\upload.php"
+					],
+					[
+						"fonti",
+						"artdupapier-dev\\public\\admin\\application\\libraries\\fontimage.php"
+					],
+					[
+						"clean",
+						"artdupapier-dev\\public\\admin\\application\\libraries\\clean.php"
+					],
+					[
+						"htacc",
+						"artdupapier-dev\\public\\admin\\.htaccess"
+					],
+					[
+						"htacce",
+						"artdupapier-dev\\public\\admin\\.htaccess"
+					],
+					[
+						"route",
+						"artdupapier-dev\\public\\admin\\application\\config\\routes.php"
+					],
+					[
+						"moduel",
+						"artdupapier-dev\\public\\admin\\assets\\js\\module.js"
+					],
+					[
+						"htaccess",
+						"artdupapier-dev\\public\\admin\\.htaccess"
+					],
+					[
+						"module.js",
+						"artdupapier-dev\\public\\adrian\\admin\\assets\\js\\module.js"
+					],
+					[
+						"app.",
+						"artdupapier-dev\\public\\adrian\\admin\\assets\\js\\app.js"
+					],
+					[
+						"model",
+						"artdupapier-dev\\public\\adrian\\admin\\application\\models\\template_model.php"
+					],
+					[
+						"hea",
+						"artdupapier-dev\\public\\adrian\\admin\\application\\views\\structure\\header.php"
+					],
+					[
+						"rou",
+						"artdupapier-dev\\public\\adrian\\admin\\application\\config\\routes.php"
+					],
+					[
+						"upload",
+						"artdupapier-dev\\public\\adrian\\admin\\assets\\js\\upload.js"
+					],
+					[
+						"uploa",
+						"customize-template\\upload.js"
+					],
+					[
+						"upload.",
+						"public\\adrian\\admin\\assets\\js\\upload.js"
+					],
+					[
+						"login",
+						"public\\bo_site\\login.php"
+					],
+					[
+						"filte",
+						"app\\filters.php"
+					],
+					[
+						"accoun",
+						"app\\controllers\\AccountsController.php"
+					],
+					[
+						"filter",
+						"zee_media_scripts\\interface\\app\\filters.php"
+					],
+					[
+						"mod",
+						"jQuery\\module.js"
+					],
+					[
+						"token",
+						"zee_media_scripts\\token.txt"
+					],
+					[
+						"url",
+						"zee_media_scripts\\url.txt"
+					],
+					[
+						"function",
+						"interface\\public\\js\\functions.js"
+					],
+					[
+						"gra",
+						"interface\\public\\js\\graph.js"
+					],
+					[
+						"footer",
+						"interface\\public\\footer.php"
+					],
+					[
+						"campai",
+						"interface\\app\\controllers\\CampaignsController.php"
+					],
+					[
+						"graph",
+						"interface\\public\\js\\graph.js"
+					],
+					[
+						"classmap",
+						"interface\\vendor\\composer\\autoload_classmap.php"
+					],
+					[
+						"export.cs",
+						"interface\\vendor\\googleads\\googleads-php-lib\\examples\\AdWords\\v201406\\Reporting\\report.csv"
+					],
+					[
+						"class",
+						"interface\\vendor\\composer\\autoload_classmap.php"
+					],
+					[
+						"adsuser.ph",
+						"google-api-adwords-php\\src\\Google\\Api\\Ads\\Common\\Lib\\AdsUser.php"
+					],
+					[
+						"auth.ini",
+						"interface\\vendor\\googleads\\googleads-php-lib\\src\\Google\\Api\\Ads\\AdWords\\auth.ini"
+					],
+					[
+						"url.t",
+						"zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\examples\\AdWords\\Auth\\url.txt"
+					],
+					[
+						"getre",
+						"zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\examples\\Dfp\\Auth\\GetRefreshToken.php"
+					],
+					[
+						"getcamp",
+						"zee_media_scripts\\interface\\vendor\\googleads\\googleads-php-lib\\examples\\AdWords\\v201406\\BasicOperations\\GetCampaigns.php"
+					],
+					[
+						"getca",
+						"zee_media_scripts\\resources\\doc\\adwords_api_php_4.7.0\\examples\\AdWords\\nscheck\\GetCampaigns.php"
+					],
+					[
+						"les-pro",
+						"csc2014\\public\\content\\moyens-de-contraception\\les-projestatifs-injectables.php"
+					],
+					[
+						"user",
+						"zee_media_scripts\\interface\\app\\controllers\\UsersController.php"
+					],
+					[
+						"expo",
+						"zee_media_scripts\\interface\\app\\controllers\\ExportsController.php"
+					],
+					[
+						"export",
+						"zee_media_scripts\\interface\\app\\controllers\\ExportsController.php"
+					],
+					[
+						"c3.min",
+						"zee_media_scripts\\interface\\public\\js\\c3.min.js"
+					],
+					[
+						"foo",
+						"zee_media_scripts\\interface\\public\\footer.php"
+					],
+					[
+						"defaulttwig",
+						"dev_adk2013\\public\\themes\\audika-prototype\\layouts\\default.twig"
+					],
+					[
+						"autolo",
+						"dev_adk2013\\vendor\\composer\\autoload_namespaces.php"
+					],
+					[
+						"autoload",
+						"zee_media_scripts\\vendor\\composer\\autoload_classmap.php"
+					],
+					[
+						"blalc",
+						"dev_adk2013\\src\\Adk\\Contact\\Admin\\BlacklistContactsParser.php"
+					],
+					[
+						"",
+						"zee_media_scripts\\interface\\public\\js\\app.js"
+					],
+					[
+						"texte",
+						"zee_media_scripts\\interface\\app\\librairies\\textes\\textes.php"
+					],
+					[
+						"nav.",
+						"zee_media_scripts\\interface\\public\\nav.php"
+					],
+					[
+						"cron",
+						"zee_media_scripts\\interface\\app\\controllers\\CronController.php"
+					],
+					[
+						"cronc",
+						"zee_media_scripts\\interface\\app\\controllers\\CronController.php"
+					],
+					[
+						"rout",
+						"zee_media_scripts\\interface\\app\\routes.php"
+					],
+					[
+						"repo",
+						"zee_media_scripts\\interface\\app\\views\\cron\\reporting.php"
+					],
+					[
+						"composer",
+						"zee_media_scripts\\interface\\composer.json"
+					],
+					[
+						"fil",
+						"zee_media_scripts\\interface\\app\\filters.php"
+					],
+					[
+						"filters",
+						"zee_media_scripts\\interface\\app\\filters.php"
+					],
+					[
+						"setrile",
+						"csc2014\\public\\content\\moyens-de-contraception\\le-sterilet-diu.html.php"
+					],
+					[
+						"setri",
+						"csc2014\\public\\content\\moyens-de-contraception\\le-sterilet-diu.php"
+					],
+					[
+						"nav",
+						"zee_media_scripts\\interface\\public\\nav.php"
+					],
+					[
+						"header",
+						"zee_media_scripts\\interface\\public\\header.php"
+					],
+					[
+						"bootstrap.js",
+						"zee_media_scripts\\interface\\public\\libs\\bootstrap\\js\\bootstrap.js"
+					],
+					[
+						"profess",
+						"csc2014\\public\\content\\en-parler-c-est-mieux\\avec-un-professionnel-de-sante.html.php"
+					],
+					[
+						"contact",
+						"csc2014\\public\\content\\contacts-utiles\\contacts-utiles.html.php"
+					],
+					[
+						"dea",
+						"csc2014\\public\\script\\deadlink.php"
+					],
+					[
+						"tableau",
+						"csc2014\\public\\content\\contraception_tableau_comparatif.html.php"
+					],
+					[
+						"combine",
+						"csc2014\\public\\content\\moyens-de-contraception\\la-pilule\\les-pilules-combinees.html.php"
+					],
+					[
+						"effic",
+						"csc2014\\public\\content\\trouver-la-bonne-contraception\\quelle-est-la-meilleure-contraception\\qu-est-ce-qu-une-methode-contraceptive-efficace.php"
+					],
+					[
+						"absen",
+						"csc2014\\public\\content\\vos-questions\\en-cas-de-probleme\\absence-de-regles.php"
+					],
+					[
+						"ivg",
+						"csc2014\\public\\content\\vos-questions\\en-cas-de-probleme\\ivg.php"
+					],
+					[
+						"contraception-ur",
+						"csc2014\\public\\content\\vos-questions\\en-cas-de-probleme\\contraception-d-urgence.html.php"
+					],
+					[
+						"contraception-urg",
+						"csc2014\\public\\content\\vos-questions\\en-cas-de-probleme\\contraception-d-urgence.php"
+					],
+					[
+						"name",
+						"zee_media_scripts\\interface\\vendor\\composer\\autoload_namespaces.php"
+					],
+					[
+						"classma",
+						"zee_media_scripts\\interface\\vendor\\composer\\autoload_classmap.php"
+					],
+					[
+						"getrefres",
+						"interface\\vendor\\googleads\\googleads-php-lib\\examples\\AdWords\\Auth\\GetRefreshToken.php"
+					],
+					[
+						"adwords",
+						"interface\\vendor\\googleads\\googleads-php-lib\\src\\Google\\Api\\Ads\\AdWords\\Lib\\AdWordsUser.php"
+					],
+					[
+						"init",
+						"interface\\vendor\\googleads\\googleads-php-lib\\examples\\AdWords\\Auth\\init.php"
+					],
+					[
+						"paths",
+						"interface\\bootstrap\\paths.php"
+					],
+					[
+						"head",
+						"cscold\\templates\\head.php"
+					],
+					[
+						"pil",
+						"public\\model\\pilules.ini"
+					],
+					[
+						"pilules",
+						"public\\model\\pilules.ini"
+					],
+					[
+						"main.js",
+						"cordonbsite\\js\\main.js"
+					],
+					[
+						"acl",
+						"recess\\apps\\acl\\AclApplication.class.php"
+					],
+					[
+						"sublime",
+						"C:\\Users\\Adrian\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings"
+					],
+					[
+						"accouh",
+						"public\\content\\trouver-la-bonne-contraception\\la-contraception-apres-un-accouchement.php"
+					],
+					[
+						"accou",
+						"public\\videos\\Accouchement.xml"
+					],
+					[
+						"double",
+						"public\\content\\trouver-la-bonne-contraception\\la-contraception-des-premieres-fois\\la-double-protection.php"
+					],
+					[
+						"eff",
+						"public\\content\\trouver-la-bonne-contraception\\quelle-est-la-meilleure-contraception\\qu-est-ce-qu-une-methode-contraceptive-efficace.php"
+					],
+					[
+						"accouche",
+						"csc2014\\public\\content\\trouver-la-bonne-contraception\\la-contraception-apres-un-accouchement.php"
+					],
+					[
+						"horizontal",
+						"dev_adk2013\\public\\themes\\audika-v3\\partials\\conversion\\shop-horizontal-carrousel.twig"
+					],
+					[
+						".js",
+						"dev_adk2013\\public\\js\\Zee\\Tree\\UI.js"
+					],
+					[
+						"symfony/component/httpfoundation/file",
+						"dev_adk2013\\vendor\\symfony\\http-foundation\\Symfony\\Component\\HttpFoundation\\File\\UploadedFile.php"
+					],
+					[
+						"symfony/component/httpfoundation/file/uploadedfile",
+						"dev_adk2013\\vendor\\symfony\\http-foundation\\Symfony\\Component\\HttpFoundation\\File\\UploadedFile.php"
+					],
+					[
+						"sidebar",
+						"csc2014\\public\\views\\sidebar.php"
+					],
+					[
+						"urgence",
+						"csc2014\\public\\content\\urgences\\la-contraception-d-urgence\\la-contraception-d-urgence-hormonale.html.php"
+					],
+					[
+						"mineur",
+						"csc2014\\public\\content\\vos-questions\\quand-on-est-mineure.html.php"
+					],
+					[
+						"implan",
+						"csc2014\\public\\content\\vos-questions\\contraception-mode-d-emploi\\implant-mode-d-emploi.html.php"
+					],
+					[
+						"mode",
+						"csc2014\\public\\content\\vos-questions\\contraception-mode-d-emploi\\pilule-mode-d-emploi.html.php"
+					],
+					[
+						"gross",
+						"csc2014\\public\\content\\vos-questions\\sexualite-et-grossesse-le-baba.html.php"
+					],
+					[
+						"parents",
+						"csc2014\\public\\content\\en-parler-c-est-mieux\\avec-ses-parents.html.php"
+					],
+					[
+						"amis",
+						"csc2014\\public\\content\\en-parler-c-est-mieux\\entre-amis.html.php"
+					],
+					[
+						"professionn",
+						"csc2014\\public\\content\\en-parler-c-est-mieux\\avec-un-professionnel-de-sante.html.php"
+					],
+					[
+						"lsite",
+						"csc2014\\public\\model\\liste_pilules.php"
+					],
+					[
+						"liste",
+						"csc2014\\public\\model\\liste_pilules.php"
+					],
+					[
+						"email",
+						"dev_adk2013\\public\\admin\\upload\\emails.txt"
+					],
+					[
+						"all",
+						"csc2014\\public\\css\\all.css"
+					],
+					[
+						"profe",
+						"csc2014\\public\\content\\en-parler-c-est-mieux\\avec-un-professionnel-de-sante.html.php"
+					],
+					[
+						"menu",
+						"csc2014\\public\\content\\urgences\\en-cas-d-oubli-de-pilule\\menu_pilules.php"
+					],
+					[
+						"pilule",
+						"csc2014\\public\\model\\pilules.ini"
+					],
+					[
+						"preserva",
+						"csc2014\\public\\content\\moyens-de-contraception\\le-preservatif-masculin.html.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 397.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

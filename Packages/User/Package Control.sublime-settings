@@ -1,0 +1,37 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Case Conversion",
+		"CodeIgniter Snippets",
+		"Compass",
+		"Doctrine Snippets",
+		"Emmet",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"jQuery",
+		"Laravel 4 Snippets",
+		"LiveReload",
+		"Markdown Preview",
+		"Minifier",
+		"Minify",
+		"MultiEditUtils",
+		"Nettuts+ Fetch",
+		"Open-Include",
+		"Path Tools",
+		"PhpSimpleRefactor",
+		"Replacer",
+		"Sass",
+		"SASS Build",
+		"Silex Snippets",
+		"Theme - Afterglow",
+		"Twig"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}
