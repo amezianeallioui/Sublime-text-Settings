@@ -1,118 +1,110 @@
-Thank you for installing the `Minify` Sublime Text Package!
-===========================================================
+Thank you for installing `Minify` for Sublime Text
+==================================================
 
-Overview
---------
-The `Minify Package` for Sublime Text can create a minified version of a currently open JavaScript, CSS or SVG file.
+You must complete the installation by installing the required dependencies
+--------------------------------------------------------------------------
 
-The plugin generates new files with the extensions `.min.js` or `.min.css` or `.min.svg`.
+1. If you see this message in your Sublime Text editor then you have already installed the `Minify` package.
+    Please proceed to step 2:
 
-Compared to other minifier packages for ST, this one is very light: The plugin itself is less than 170 lines of Python code.
-Also, once installed, this Package do not need Internet access to do its job, it works entirely offline.
+2. Install Node.js:
 
-This Package has been tested with both Sublime Text 2 and Sublime Text 3 and should work fine on all platforms.
+  Windows and Mac OS X users should just visit https://nodejs.org/ and click on the INSTALL button,
+  Linux users can download pre-compiled binary files from https://nodejs.org/download/
 
-The `Minify Package` for ST uses several other programs to do its job.
+  After successful installation, please make sure that `node` is in your `PATH`, here is how to test it:
 
-For minification tasks:
+  Open up a shell window (`Terminal` on Mac OS X, `CMD.exe` on Windows) and issue the following command:
 
-`Minify` uses [UglifyJS 2](https://github.com/mishoo/UglifyJS2) a Nodejs program to minify JavaScript files.
+  node --version
 
-`YUI Compressor` is utilized to minify CSS files. (`YUI Compressor` is used for CSS file minification only.)
+  You should see a version number. But if you see an error message such as `command not found` or something
+  similar then `node` is not available via your `PATH` and you must fix this!
 
-[svgo](https://github.com/svg/svgo) Nodejs program is used to minify SVG files.
+3. Install required Node.js CLI apps:
 
-The Minify package can also beautify files:
+  From a shell window (`Terminal` on Mac OS X, `CMD.exe` on Windows) issue the following command:
 
-For Javascript beautification, it uses `UglifyJS 2`. This can be useful in case you're looking at a file which was previously
-minified and the original / uncompressed version of the file is unavailable.
+  npm install -g clean-css uglifycss js-beautify html-minifier uglify-js svgo
 
-[js-beautify](https://www.npmjs.org/package/js-beautify) is used to beautify CSS files.
+  Notes:
 
-`svgo` is used to make SVG files pretty.
+    If you are on Mac OS X and you get an error here then issue the following command from `Terminal`:
+    `sudo chown -R $USER /usr/local` and then try to issue the npm install command from above again.
 
-Requirements
-------------
-Before you start, you must have Sublime Text 2 or Sublime Text 3 installed and working properly. Then:
+    If you are never going to work with e.g. SVG files then you can leave out `svgo` from the above npm
+    install command. You can also leave out `uglifycss`, etc.
 
-1. Nodejs -- Since this package uses Node for many of its tasks, you must have [Nodejs](http://nodejs.org/) installed on your system.
-Once you have Nodejs installed, you need to install the following programs globally for Node:
+    If you already have some or all of the above Node.js CLI apps installed on your system then it is
+    recommended to update them all to the latest version with the following command:
 
-2. Install `UglifyJS 2` (it is needed for Javascript minification and beautification):
-`npm -g install uglify-js`
+    npm update -g clean-css uglifycss js-beautify html-minifier uglify-js svgo
 
-3. Install `js-beautify` (it is needed for CSS beautification):
-`npm -g install js-beautify`
+  Please test that the installed Node.js CLI apps are available via your `PATH`, here is how:
 
-4. Install `svgo` (it is needed for SVG minification and beautification):
-`npm -g install svgo`
+  Still from a shell window (`Terminal` on Mac OS X, `CMD.exe` on Windows) issue the following command,
+  for example:
 
-5. Install Java which is required for `YUI Compressor` (it is needed for CSS minification)
+  cleancss --version
 
-Please make sure the `java` command is available in your system PATH.
+  You should see a version number. But if you see an error message such as `command not found` or something
+  similar then `cleancss` is not available via your `PATH` and you must fix this!
 
-If you do not have any of the above commands available in your system PATH then alternatively you can specify custom locations
-for those commands in `Settings -- User` of the `Minify Package` ( `Minify.sublime-settings` and NOT `Preferences.sublime-settings` ! )
+  You may want to do this test for all Node.js CLI apps (`cleancss`, `uglifycss`, `js-beautify`, `uglifyjs`,
+  `html-minifier` and `svgo`).
 
-IMPORTANT NOTE FOR MAC USERS!
------------------------------
-Unfortunately, Sublime Text does not search for executable files under /usr/local/bin directory regardless of your system PATH setting.
-(It seems, ST uses its own PATH setting which we cannot change.) Because of this, you probably need to create a symlink on your Mac:
 
-Open a Terminal and issue the following command:
+What is `Minify`
+----------------
 
-`cd /usr/bin && sudo ln -s /usr/local/bin/node node`
+`Minify` for Sublime Text can create a minified version of a currently open CSS, HTML, JavaScript or SVG file.
 
-But it is not enough! You also need to add full path for the commands `Minify` uses. After installing the `Minify` package in ST,
-please open its default settings ( Preferences -> Package Settings -> Minify -> Settings -- Default ) and copy the contents to the
-`Settings -- User` file ( Preferences -> Package Settings -> Minify -> Settings -- User ) then you can customize `Minify` settings there.
-Please do not modify `Settings -- Default` because it will be overwritten by the next release of the `Minify` package!
+`Minify` generates a new file with an altered file extension such as `.min.css`, `.min.html`, `.min.js`, `.min.svg`.
 
-E.g.: To add full path to your `uglifyjs` command, change the appropriate line inside your `Settings -- User` file to
+Compared to other Sublime Text minifier packages `Minify` is very light: the plugin itself is less than 200 lines
+of Python code. Once installed `Minify` does not need Internet access to do its job, it works offline.
 
-    "uglifyjs_command": "/usr/local/bin/uglifyjs",
+`Minify` has been tested under both Sublime Text 2 and Sublime Text 3 and it should work fine on all supported
+platforms (Linux, Mac OS X and Windows).
 
-Installation
-------------
-Please install the `Minify` Sublime Text Package via the [Package Control](https://sublime.wbond.net/) package manager.
+`Minify` depends on other programs written in Node.js to do its job. Detailed installation instructions for those
+dependencies were provided above.
 
-Alternatively, you may install the `Minify Package` by using git:
+Which 3rd party programs are used by `Minify`
+---------------------------------------------
 
-*MacOSX*
+|-----------------------------------------------------------|
+|            |         Minify         |      Beautify       |
+|------------|------------------------|---------------------|
+| CSS        | clean-css or uglifycss | js-beautify --css   |
+| HTML       | html-minifier          | js-beautify --html  |
+| JavaScript | uglifyjs               | uglifyjs --beautify |
+| SVG        | svgo                   | svgo --pretty       |
+|-----------------------------------------------------------|
 
-    git clone git://github.com/tssajo/Minify.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Minify
+How to use `Minify`
+-------------------
 
-Note: Replace "Sublime\ Text\ 2" with "Sublime\ Text\ 3" in the above command if you are using Sublime Text 3
+Open a `.css` or `.htm` or `.html` or `.js` or `.svg` file in your Sublime Text editor and you can
 
-*Windows*
+  a) use the Context Menu inside the Sublime Text editor window,
 
-    git clone git://github.com/tssajo/Minify.git %APPDATA%\Sublime Text 2\Packages\Minify
+  b) access the `Minify file` or `Beautify file` commands under Tools / Minify menu in Sublime Text,
 
-Note: Replace "Sublime Text 2" with "Sublime Text 3" in the above command if you are using Sublime Text 3
+  c) use one of the following keyboard shortcuts:
 
-How to use
-----------
-Open a `.js` or `.css` or `.svg` file in your Sublime Text editor and you can:
+  `ctrl + alt + m` ( `super + alt + m` on Mac OS X )
 
-A.  Use the Context Menu inside the Sublime Text editor window; or
+  This minifies the current buffer and saves the minified version into the same directory with the
+  appropriate .min.css or .min.htm or .min.html or .min.js or .min.svg file extension
+  then it opens the minified file in a new editor window.
 
-B.  Access the `Minify file` or `Beautify file` commands under Tools / Minify menu in Sublime Text.
+  `ctrl + alt + shift + m` ( `super + alt + shift + m` on Mac OS X )
 
-C.  The following keyboard shortcuts are also available:
-
-`ctrl + alt + m` ( `super + alt + m` on OSX ) :
-	Minifies the current buffer and saves the minified version into the same directory with the
-    appropriate .min.js or .min.css or .min.svg file extension, then opens the minified file in a new editor window.
-
-`ctrl + alt + shift + m` ( `super + alt + shift + m` on OSX ) :
-	beautifies the current buffer and saves the beautified version into the same directory with the
-    appropriate .beautified.js or .beautified.css or .pretty.svg file extension, then opens the beautified
-    file in a new editor window.
-
-TODO
-----
-Adding HTML minification feature.
+  This beautifies the current buffer and saves the beautified version into the same directory with the appropriate
+  .beautified.css or .beautified.htm or .beautified.html or .beautified.js or .pretty.svg file extension
+  then it opens the beautified file in a new editor tab.
 
 License
 -------
-See [LICENSE.md](https://github.com/tssajo/Minify/blob/master/LICENSE.md) file for licensing information.
+See https://github.com/tssajo/Minify/blob/master/LICENSE.md for licensing information.

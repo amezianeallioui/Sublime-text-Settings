@@ -1,19 +1,30 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
 		"Alignment",
+		"ASCII Replacer",
+		"Aurora Color Scheme",
+		"AutoFileName",
+		"Backbone.js",
+		"Better CoffeeScript",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Case Conversion",
+		"CodeFormatter",
 		"CodeIgniter Snippets",
+		"CoffeeComplete Plus (Autocompletion)",
 		"Compass",
 		"Doctrine Snippets",
 		"Emmet",
 		"HTMLBeautify",
 		"Javascript Beautify",
 		"jQuery",
+		"jQuery Snippets pack",
 		"Laravel 4 Snippets",
+		"LESS",
 		"LiveReload",
 		"Markdown Preview",
 		"Minifier",
@@ -21,14 +32,17 @@
 		"MultiEditUtils",
 		"Nettuts+ Fetch",
 		"Open-Include",
+		"Package Control",
 		"Path Tools",
 		"PhpSimpleRefactor",
-		"Replacer",
 		"Sass",
 		"SASS Build",
 		"Silex Snippets",
+		"Sublime Bookmarks",
 		"Theme - Afterglow",
-		"Twig"
+		"Theme - Brogrammer",
+		"Twig",
+		"WordPress"
 	],
 	"repositories":
 	[

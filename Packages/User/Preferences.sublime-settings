@@ -3,7 +3,10 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Minify",
+		"Vintage",
+		"BracketHighlighter",
+		"LiveReload"
 	],
 	"line_padding_bottom": 4,
 	"tabs_small": true,
