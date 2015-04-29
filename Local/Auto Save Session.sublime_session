@@ -1919,6 +1919,10 @@
 				"selected_items":
 				[
 					[
+						"rou",
+						"routeProvider"
+					],
+					[
 						"demo",
 						"demo-counter"
 					],
@@ -2425,10 +2429,6 @@
 					[
 						"coor",
 						"color"
-					],
-					[
-						"php",
-						"phpinfo"
 					]
 				]
 			},
@@ -2438,7 +2438,7 @@
 					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/index.html",
 					"settings":
 					{
-						"buffer_size": 1499,
+						"buffer_size": 488,
 						"line_ending": "Windows"
 					}
 				},
@@ -2454,7 +2454,15 @@
 					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/app.js",
 					"settings":
 					{
-						"buffer_size": 76,
+						"buffer_size": 259,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/directives/partials/movies-list.html",
+					"settings":
+					{
+						"buffer_size": 986,
 						"line_ending": "Windows"
 					}
 				},
@@ -2463,14 +2471,6 @@
 					"settings":
 					{
 						"buffer_size": 1574,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/bower.json",
-					"settings":
-					{
-						"buffer_size": 564,
 						"line_ending": "Unix"
 					}
 				},
@@ -2486,7 +2486,15 @@
 					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/filters/filters.js",
 					"settings":
 					{
-						"buffer_size": 262,
+						"buffer_size": 263,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/partials/movies-list.html",
+					"settings":
+					{
+						"buffer_size": 986,
 						"line_ending": "Windows"
 					}
 				},
@@ -2506,10 +2514,26 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 41.0,
-				"last_filter": "disa",
+				"height": 337.0,
+				"last_filter": "browse",
 				"selected_items":
 				[
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
 					[
 						"disa",
 						"Package Control: Disable Package"
@@ -2556,10 +2580,6 @@
 					],
 					[
 						"htl",
-						"HTMLBeautify"
-					],
-					[
-						"html",
 						"HTMLBeautify"
 					],
 					[
@@ -2695,14 +2715,6 @@
 						"Emmet: Go to Matching Pair"
 					],
 					[
-						"brow",
-						"Preferences: Browse Packages"
-					],
-					[
-						"lis",
-						"Package Control: List Packages"
-					],
-					[
 						"bs3-in",
 						"Snippet: bs3-input-text"
 					],
@@ -2799,10 +2811,6 @@
 						"Preferences: Package Control Settings – User"
 					],
 					[
-						"browse",
-						"Preferences: Browse Packages"
-					],
-					[
 						"li",
 						"LiveReload: Self test"
 					],
@@ -2894,8 +2902,6 @@
 				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons",
 				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/directives",
 				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/directives/partials",
-				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/controllers",
-				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/partials",
 				"/C/xampp/htdocs/lab/jquery-like",
 				"/C/xampp/htdocs/lab/node"
 			],
@@ -3425,15 +3431,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1499,
+								"buffer_size": 488,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										46,
-										46
+										337,
+										337
 									]
 								],
 								"settings":
@@ -3474,7 +3480,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
@@ -3483,15 +3489,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 76,
+								"buffer_size": 259,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										64,
-										64
+										259,
+										259
 									]
 								],
 								"settings":
@@ -3502,11 +3508,41 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
+							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/directives/partials/movies-list.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 986,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										553,
+										553
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
 							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/package.json",
 							"semi_transient": false,
 							"settings":
@@ -3532,37 +3568,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/bower.json",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 564,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										431,
-										431
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Bower JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 113.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
@@ -3590,7 +3596,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 7,
 							"type": "text"
 						},
 						{
@@ -3599,15 +3605,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 262,
+								"buffer_size": 263,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										67,
-										75
+										248,
+										248
 									]
 								],
 								"settings":
@@ -3618,11 +3624,39 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
 							"buffer": 7,
+							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/partials/movies-list.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 986,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										986,
+										986
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
 							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/controllers/movies-list.js",
 							"semi_transient": false,
 							"settings":
@@ -3646,7 +3680,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 8,
 							"type": "text"
 						}
 					]
@@ -3705,6 +3739,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"filter",
+						"lab\\angular-boilerplate-hetic\\src\\app\\commons\\filters\\filters.js"
+					],
 					[
 						"direct",
 						"lab\\angular-boilerplate-hetic\\src\\app\\commons\\directives\\directives.js"
@@ -4112,10 +4150,6 @@
 					[
 						"accoun",
 						"app\\controllers\\AccountsController.php"
-					],
-					[
-						"filter",
-						"zee_media_scripts\\interface\\app\\filters.php"
 					],
 					[
 						"mod",

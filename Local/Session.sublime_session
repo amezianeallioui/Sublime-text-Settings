@@ -1919,6 +1919,14 @@
 				"selected_items":
 				[
 					[
+						"demo",
+						"demo-counter"
+					],
+					[
+						"su",
+						"substr"
+					],
+					[
 						"has",
 						"hasClass	.hasClass()"
 					],
@@ -2421,65 +2429,33 @@
 					[
 						"php",
 						"phpinfo"
-					],
-					[
-						"select",
-						"selectTemplate"
-					],
-					[
-						"this",
-						"thisInput"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/C/xampp/htdocs/lab/backbone/index.html",
+					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/index.html",
 					"settings":
 					{
-						"buffer_size": 1686,
+						"buffer_size": 1499,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/xampp/htdocs/lab/backbone/scripts/app.js",
+					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/directives/directives.js",
 					"settings":
 					{
-						"buffer_size": 75,
+						"buffer_size": 432,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/xampp/htdocs/lab/backbone/scripts/routers/router.js",
+					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/app.js",
 					"settings":
 					{
-						"buffer_size": 196,
+						"buffer_size": 76,
 						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/xampp/htdocs/lab/backbone/scripts/views/student-list.js",
-					"settings":
-					{
-						"buffer_size": 1297,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/xampp/htdocs/lab/angular/bower.json",
-					"settings":
-					{
-						"buffer_size": 57,
-						"line_ending": "Windows",
-						"name": "{"
 					}
 				},
 				{
@@ -2491,26 +2467,34 @@
 					}
 				},
 				{
-					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/gulpfile.js",
+					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/bower.json",
 					"settings":
 					{
-						"buffer_size": 8353,
+						"buffer_size": 564,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/directives/partials/demo-counter.html",
+					"settings":
+					{
+						"buffer_size": 90,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/xampp/htdocs/lab/backbone/scripts/models/student-model.js",
+					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/filters/filters.js",
 					"settings":
 					{
-						"buffer_size": 137,
+						"buffer_size": 262,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/xampp/htdocs/lab/backbone/scripts/collections/student-collection.js",
+					"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/controllers/movies-list.js",
 					"settings":
 					{
-						"buffer_size": 160,
+						"buffer_size": 483,
 						"line_ending": "Windows"
 					}
 				}
@@ -2522,10 +2506,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 226.0,
-				"last_filter": "disa",
+				"height": 263.0,
+				"last_filter": "brow",
 				"selected_items":
 				[
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
 					[
 						"disa",
 						"Package Control: Disable Package"
@@ -2709,10 +2697,6 @@
 					[
 						"go to ",
 						"Emmet: Go to Matching Pair"
-					],
-					[
-						"brow",
-						"Preferences: Browse Packages"
 					],
 					[
 						"lis",
@@ -2905,11 +2889,28 @@
 				"/C/xampp/htdocs/lab",
 				"/C/xampp/htdocs/lab/angular",
 				"/C/xampp/htdocs/lab/angular-boilerplate-hetic",
+				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src",
+				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app",
+				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons",
+				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/directives",
+				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/directives/partials",
+				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/controllers",
+				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/partials",
 				"/C/xampp/htdocs/lab/jquery-like",
 				"/C/xampp/htdocs/lab/node"
 			],
 			"file_history":
 			[
+				"/C/xampp/htdocs/lab/backbone/index.html",
+				"/C/xampp/htdocs/lab/backbone/scripts/app.js",
+				"/C/xampp/htdocs/lab/backbone/scripts/routers/router.js",
+				"/C/xampp/htdocs/lab/backbone/scripts/views/student-list.js",
+				"/C/xampp/htdocs/lab/angular/bower.json",
+				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/package.json",
+				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/services/services.js",
+				"/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/app.js",
+				"/C/xampp/htdocs/lab/backbone/scripts/models/student-model.js",
+				"/C/xampp/htdocs/lab/backbone/scripts/collections/student-collection.js",
 				"/C/xampp/htdocs/lab/my-jquery.js",
 				"/C/xampp/htdocs/rive/tr-admin/application/controllers/administration.php",
 				"/C/xampp/htdocs/rive/tr-admin/application/views/admin/signup.php",
@@ -3027,17 +3028,7 @@
 				"/C/xampp/htdocs/fiction-play-studio/wp-content/themes/Primero/gulpfile.js",
 				"/C/xampp/htdocs/fiction-play-studio/wp-content/themes/Primero/out/style.css",
 				"/C/xampp/htdocs/fiction-play-studio/wp-content/themes/Primero/contact-page.php",
-				"/C/xampp/htdocs/fiction-play-studio/wp-content/themes/Primero/contact-full-page.php",
-				"/C/xampp/htdocs/rive/tr-admin/application/views/login.php",
-				"/C/xampp/htdocs/rive/tr-admin/application/views/admin/parametres.php",
-				"/C/xampp/htdocs/dimtac/scss/layout/_main.scss",
-				"/C/xampp/htdocs/dimtac/scss/style.scss",
-				"/C/xampp/htdocs/rive/tr-admin/application/views/structure/header.php",
-				"/C/xampp/htdocs/rive/tr-admin/application/views/mails/signup_confirmation.mustache",
-				"/C/xampp/htdocs/prestashop/themes/default-bootstrap/modules/blockbestsellers/blockbestsellers.tpl",
-				"/C/xampp/htdocs/rive/tr-admin/application/views/mails/delete_user_confirmation.mustache",
-				"/C/xampp/htdocs/fiction-play-studio/wp-content/themes/Primero/admin/options-framework.php",
-				"/C/xampp/htdocs/fiction-play-studio/wp-content/themes/Primero/options.php"
+				"/C/xampp/htdocs/fiction-play-studio/wp-content/themes/Primero/contact-full-page.php"
 			],
 			"find":
 			{
@@ -3183,6 +3174,16 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"hetic",
+					"searchText",
+					"limit",
+					"camelize",
+					"newMovieInput",
+					"MoviesListController",
+					"Cloud",
+					"false",
+					"displaySumInput",
+					"liver",
 					"Q",
 					"$",
 					"true",
@@ -3300,17 +3301,7 @@
 					"add",
 					"registration",
 					"regsitration",
-					"id",
-					"author",
-					"User",
-					"foreign_key",
-					"Phone",
-					"phone",
-					"users",
-					"Text",
-					"texts",
-					"Text",
-					"texts"
+					"id"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3425,52 +3416,54 @@
 			"groups":
 			[
 				{
-					"selected": 7,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/C/xampp/htdocs/lab/backbone/index.html",
+							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1686,
+								"buffer_size": 1499,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										509,
-										509
+										46,
+										46
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/HTML/HTML.tmLanguage"
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 741.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 9,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/C/xampp/htdocs/lab/backbone/scripts/app.js",
+							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/directives/directives.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 75,
+								"buffer_size": 432,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										395,
+										395
 									]
 								],
 								"settings":
@@ -3481,52 +3474,24 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 8,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 2,
-							"file": "/C/xampp/htdocs/lab/backbone/scripts/routers/router.js",
+							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/app.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 196,
+								"buffer_size": 76,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										13,
-										13
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/xampp/htdocs/lab/backbone/scripts/views/student-list.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1297,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										192,
-										192
+										64,
+										64
 									]
 								],
 								"settings":
@@ -3541,64 +3506,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 4,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"default_dir": "C:\\xampp\\htdocs\\lab",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/C/xampp/htdocs/lab/angular/bower.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 57,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										19,
-										19
-									]
-								],
-								"settings":
-								{
-									"auto_name": "{",
-									"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Bower JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
+							"buffer": 3,
 							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/package.json",
 							"semi_transient": false,
 							"settings":
@@ -3610,8 +3518,8 @@
 								"selection":
 								[
 									[
-										152,
-										152
+										343,
+										343
 									]
 								],
 								"settings":
@@ -3624,54 +3532,82 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 7,
-							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/gulpfile.js",
+							"buffer": 4,
+							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/bower.json",
 							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 8353,
+								"buffer_size": 564,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2038,
-										2038
+										431,
+										431
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Gulpfile JS.tmLanguage",
+									"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Bower JSON.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3122.0,
+								"translation.y": 113.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
-							"buffer": 8,
-							"file": "/C/xampp/htdocs/lab/backbone/scripts/models/student-model.js",
+							"buffer": 5,
+							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/directives/partials/demo-counter.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 137,
+								"buffer_size": 90,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										21,
-										21
+										90,
+										90
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Twig/Syntaxes/HTML (Twig).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/commons/filters/filters.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 262,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										67,
+										75
 									]
 								],
 								"settings":
@@ -3686,20 +3622,20 @@
 							"type": "text"
 						},
 						{
-							"buffer": 9,
-							"file": "/C/xampp/htdocs/lab/backbone/scripts/collections/student-collection.js",
+							"buffer": 7,
+							"file": "/C/xampp/htdocs/lab/angular-boilerplate-hetic/src/app/controllers/movies-list.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 160,
+								"buffer_size": 483,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										20,
-										20
+										413,
+										413
 									]
 								],
 								"settings":
@@ -3710,7 +3646,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 6,
 							"type": "text"
 						}
 					]
@@ -3770,16 +3706,28 @@
 				"selected_items":
 				[
 					[
+						"direct",
+						"lab\\angular-boilerplate-hetic\\src\\app\\commons\\directives\\directives.js"
+					],
+					[
+						"flters",
+						"lab\\angular-boilerplate-hetic\\src\\app\\commons\\filters\\filters.js"
+					],
+					[
+						"app.js",
+						"lab\\angular-boilerplate-hetic\\src\\app\\app.js"
+					],
+					[
+						"service",
+						"lab\\angular-boilerplate-hetic\\src\\app\\commons\\services\\services.js"
+					],
+					[
 						"stude",
 						"lab\\backbone\\scripts\\views\\student-list.js"
 					],
 					[
 						"router",
 						"lab\\backbone\\scripts\\routers\\router.js"
-					],
-					[
-						"app.js",
-						"lab\\backbone\\scripts\\app.js"
 					],
 					[
 						"routes",
@@ -4268,18 +4216,6 @@
 					[
 						"texte",
 						"zee_media_scripts\\interface\\app\\librairies\\textes\\textes.php"
-					],
-					[
-						"nav.",
-						"zee_media_scripts\\interface\\public\\nav.php"
-					],
-					[
-						"cron",
-						"zee_media_scripts\\interface\\app\\controllers\\CronController.php"
-					],
-					[
-						"cronc",
-						"zee_media_scripts\\interface\\app\\controllers\\CronController.php"
 					]
 				],
 				"width": 0.0
